@@ -1,0 +1,52 @@
+baseURL = 'http://sparrow10.com/'
+languageCode = 'en-us'
+title = 'Sparrow10'
+paginate = 12
+publishDir = "docs"
+
+theme = "hugo-ink"
+copyright = "© <a href='https://carlosgustavoruiz.me'>Carlos Gustavo Ruiz</a>"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    subtitle = "Ideas, drafts, and hacks"
+    avatar = "https://avatars.githubusercontent.com/u/1821644"
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/carlosgruiz_dev"
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/carlosgruiz-dev"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
