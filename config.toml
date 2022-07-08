@@ -1,4 +1,4 @@
-baseURL = 'http://sparrow10.com/'
+baseURL = 'https://www.sparrow10.com/'
 languageCode = 'en-us'
 title = 'Sparrow10'
 paginate = 12
