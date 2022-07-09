@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sparrow10</title>
-    <link>https://www.sparrow10.com/</link>
-    <description>Recent content on Sparrow10</description>
+    <title>random on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/random/</link>
+    <description>Recent content in random on Sparrow10</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 08 Jul 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
       <link>https://www.sparrow10.com/posts/2022-07-08_hello_world/</link>
@@ -16,16 +16,6 @@
       <guid>https://www.sparrow10.com/posts/2022-07-08_hello_world/</guid>
       <description>So yes, I started a new blog. Because GitHub pages and Hugo are not a big deal, this was the easy part. Now, the following steps are another story. Well, my initial idea of having a new blog was not to stress too much about formatting, preparation, and proofreading, but to write somewhere much of the information I like to revisit in the future.
 I&amp;rsquo;ll not fill this post with promises about things I will not do, and only say, welcome all of you, and wish me luck.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.sparrow10.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/about/</guid>
-      <description>Hi there, glad to see you here. My name is Carlos Gustavo. I&amp;rsquo;m a Venezuelan Systems Engineer living in Panama since 2016. I work as a developer and have experience with geospatial technologies and data engineering. You can find more about my profile on my main website.
-This blog, as I intended, is more casual and relaxed. Half made ideas, some notes. Maybe a longer format for my Twitter account. Sure I&amp;rsquo;ll drop techie stuff here but also expect some random stuff.</description>
     </item>
     
   </channel>
