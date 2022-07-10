@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 09 Jul 2022 04:38:04 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 22:08:01 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting with Scala.js</title>
+      <link>https://www.sparrow10.com/posts/2022-07-10_scalajs/</link>
+      <pubDate>Sun, 10 Jul 2022 22:08:01 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-10_scalajs/</guid>
+      <description>Scala.js is an option for generating JavaScript code using the Scala programming language, with the benefits of a strongly typed system, functional and object-oriented capacities, and a great alternative to share code between the backend and the frontend of a web application. All this sounds great, but the Scala ecosystem is vast, sometimes you end up spending hours looking for what path to start with (I know this because I’ve done it, and it is crushing).</description>
+    </item>
+    
     <item>
       <title>Pietro Perugino (Quote)</title>
       <link>https://www.sparrow10.com/posts/2022-07-09_pietro_perugino/</link>
