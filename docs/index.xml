@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 10 Jul 2022 22:08:01 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 22:48:15 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What your coffee-preparation method says about your text editor</title>
+      <link>https://www.sparrow10.com/posts/2022-07-10_coffee_editors/</link>
+      <pubDate>Sun, 10 Jul 2022 22:48:15 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-10_coffee_editors/</guid>
+      <description>tweet by @gumnos</description>
+    </item>
+    
     <item>
       <title>Starting with Scala.js</title>
       <link>https://www.sparrow10.com/posts/2022-07-10_scalajs/</link>

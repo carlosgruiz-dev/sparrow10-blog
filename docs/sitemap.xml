@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sparrow10.com/tags/javascript/</loc>
-    <lastmod>2022-07-10T22:08:01+00:00</lastmod>
+    <loc>https://www.sparrow10.com/tags/editors/</loc>
+    <lastmod>2022-07-10T22:48:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/fun/</loc>
+    <lastmod>2022-07-10T22:48:15+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-07-10T22:48:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-07-10T22:48:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-10T22:48:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/twitter/</loc>
+    <lastmod>2022-07-10T22:48:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-10_coffee_editors/</loc>
+    <lastmod>2022-07-10T22:48:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/javascript/</loc>
     <lastmod>2022-07-10T22:08:01+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/scala/</loc>
@@ -14,13 +32,7 @@
     <loc>https://www.sparrow10.com/tags/scala.js/</loc>
     <lastmod>2022-07-10T22:08:01+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-10T22:08:01+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-10_scalajs/</loc>
-    <lastmod>2022-07-10T22:08:01+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-07-10T22:08:01+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/web/</loc>
