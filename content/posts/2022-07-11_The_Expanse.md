@@ -6,7 +6,7 @@ tags: ["sci-fi", "the expanse", "books", "tv shows", "youtube"]
 ---
 
 Not so long ago, I realized that I became a fan of sci-fi and fantasy. After watching the
-[Game of Thrones TV show][got], I jumped into the [book][asoif], and it was a great experience.
+[Game of Thrones TV show][got], I jumped into the [books][asoif], and it was a great experience.
 Not so nerd to be an [ASOIF][asoif] expert, it was for me a new experience to live through the
 eyes of those characters what was happening in their world.
 

@@ -5,6 +5,7 @@ paginate = 12
 publishDir = "docs"
 
 theme = "hugo-ink"
+
 copyright = "© <a href='https://carlosgustavoruiz.me'>Carlos Gustavo Ruiz</a>"
 
 pygmentsstyle = "vs"
@@ -15,6 +16,7 @@ pygmentscodefencesguesssyntax = true
     subtitle = "Ideas, drafts, and hacks"
     avatar = "/images/sparrow10com.jpg"
     mode = "auto"
+    favicon = "/favicon.ico"
 
 # Nav.
 [[menu.main]]
