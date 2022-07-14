@@ -1,7 +1,7 @@
 ---
 title: "I live in a sitcom"
 date: 2022-07-14T12:00:00Z
-draft: true
+draft: false
 tags: ["family", "fun", "sitcom"]
 ---
 
