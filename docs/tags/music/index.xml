@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/music/</link>
+    <description>Recent content in music on Sparrow10</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 16 Jul 2022 21:51:28 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Data Engineer&#39;s Playlist</title>
+      <link>https://www.sparrow10.com/posts/2022-07-16_the_data_engineers_playlist/</link>
+      <pubDate>Sat, 16 Jul 2022 21:51:28 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-16_the_data_engineers_playlist/</guid>
+      <description>The Data Engineer&amp;rsquo;s Playlist on Spotify</description>
+    </item>
+    
+  </channel>
+</rss>
