@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 10 Jul 2022 22:08:01 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 12:33:50 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playing with Scala.js and a canvas</title>
+      <link>https://www.sparrow10.com/posts/2022-07-17_playing_scalajs_canvas/</link>
+      <pubDate>Sun, 17 Jul 2022 12:33:50 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-17_playing_scalajs_canvas/</guid>
+      <description>Today I was playing with Scala.js adding a canvas to an HTML page. So, there it is, a code generated canvas changing colors randomly.
+ See you in another post.</description>
+    </item>
+    
     <item>
       <title>Starting with Scala.js</title>
       <link>https://www.sparrow10.com/posts/2022-07-10_scalajs/</link>
