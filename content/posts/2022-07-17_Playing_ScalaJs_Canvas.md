@@ -9,7 +9,7 @@ Today I was playing with [Scala.js][1] adding a [canvas][2] to an HTML page.
 So, there it is, a code generated canvas changing colors randomly.
 
 {{< rawhtml >}}
-<iframe src="/code/canvas-scalajs-01/index.html" width="100%" height="400" frameBorder="0"></iframe>
+<iframe src="/code/canvas-scalajs-01/index.html" width="100%" height="400" frameBorder="0" scrolling="no"></iframe>
 {{< /rawhtml >}}
 
 See you in another post.
