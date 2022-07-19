@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>canvas on Sparrow10</title>
-    <link>https://www.sparrow10.com/tags/canvas/</link>
-    <description>Recent content in canvas on Sparrow10</description>
+    <title>code on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/code/</link>
+    <description>Recent content in code on Sparrow10</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 18 Jul 2022 21:29:57 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 21:29:57 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Playing with Scala.js and a canvas (code)</title>
       <link>https://www.sparrow10.com/posts/2022-07-18_playing_scalajs_canvas_code/</link>
@@ -17,16 +17,6 @@
       <description>If you look at yesterday&amp;rsquo;s article, you maybe wonder how it works. Well, the code is very straightforward. We import our dependencies for exporting the function, using the dom, and generating random numbers.
 
 Using a Scala object, we create a method called main and add an annotation to say the Scala.js compiler that we want to expose this function. Inside the function, we create a canvas object, add it to the dom, and adjust its size to fill all the space.</description>
-    </item>
-    
-    <item>
-      <title>Playing with Scala.js and a canvas</title>
-      <link>https://www.sparrow10.com/posts/2022-07-17_playing_scalajs_canvas/</link>
-      <pubDate>Sun, 17 Jul 2022 12:33:50 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/posts/2022-07-17_playing_scalajs_canvas/</guid>
-      <description>Today I was playing with Scala.js adding a canvas to an HTML page. So, there it is, a code generated canvas changing colors randomly.
- See you in another post.</description>
     </item>
     
   </channel>

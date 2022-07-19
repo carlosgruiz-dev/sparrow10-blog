@@ -7,20 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 17 Jul 2022 12:33:50 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 21:29:57 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>canvas</title>
       <link>https://www.sparrow10.com/tags/canvas/</link>
-      <pubDate>Sun, 17 Jul 2022 12:33:50 +0000</pubDate>
+      <pubDate>Mon, 18 Jul 2022 21:29:57 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/canvas/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>code</title>
+      <link>https://www.sparrow10.com/tags/code/</link>
+      <pubDate>Mon, 18 Jul 2022 21:29:57 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>javascript</title>
       <link>https://www.sparrow10.com/tags/javascript/</link>
-      <pubDate>Sun, 17 Jul 2022 12:33:50 +0000</pubDate>
+      <pubDate>Mon, 18 Jul 2022 21:29:57 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/javascript/</guid>
       <description></description>
@@ -29,7 +38,7 @@
     <item>
       <title>scala</title>
       <link>https://www.sparrow10.com/tags/scala/</link>
-      <pubDate>Sun, 17 Jul 2022 12:33:50 +0000</pubDate>
+      <pubDate>Mon, 18 Jul 2022 21:29:57 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/scala/</guid>
       <description></description>
@@ -38,7 +47,7 @@
     <item>
       <title>scala.js</title>
       <link>https://www.sparrow10.com/tags/scala.js/</link>
-      <pubDate>Sun, 17 Jul 2022 12:33:50 +0000</pubDate>
+      <pubDate>Mon, 18 Jul 2022 21:29:57 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/scala.js/</guid>
       <description></description>
@@ -47,7 +56,7 @@
     <item>
       <title>web</title>
       <link>https://www.sparrow10.com/tags/web/</link>
-      <pubDate>Sun, 17 Jul 2022 12:33:50 +0000</pubDate>
+      <pubDate>Mon, 18 Jul 2022 21:29:57 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/web/</guid>
       <description></description>
