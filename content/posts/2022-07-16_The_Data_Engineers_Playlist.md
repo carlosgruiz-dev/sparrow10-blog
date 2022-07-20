@@ -2,7 +2,7 @@
 title: "The Data Engineer's Playlist"
 date: 2022-07-16T21:51:28Z
 draft: false
-tags: ["music", "data engineering", "fun"]
+tags: ["music", "data-engineering", "fun"]
 ---
 
 {{< rawhtml >}}

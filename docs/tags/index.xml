@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 18 Jul 2022 21:29:57 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 22:51:25 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>books</title>
+      <link>https://www.sparrow10.com/tags/books/</link>
+      <pubDate>Tue, 19 Jul 2022 22:51:25 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>habits</title>
+      <link>https://www.sparrow10.com/tags/habits/</link>
+      <pubDate>Tue, 19 Jul 2022 22:51:25 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes</title>
+      <link>https://www.sparrow10.com/tags/quotes/</link>
+      <pubDate>Tue, 19 Jul 2022 22:51:25 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/quotes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>canvas</title>
       <link>https://www.sparrow10.com/tags/canvas/</link>
@@ -63,7 +90,7 @@
     </item>
     
     <item>
-      <title>data engineering</title>
+      <title>data-engineering</title>
       <link>https://www.sparrow10.com/tags/data-engineering/</link>
       <pubDate>Sat, 16 Jul 2022 21:51:28 +0000</pubDate>
       
@@ -126,24 +153,6 @@
     </item>
     
     <item>
-      <title>books</title>
-      <link>https://www.sparrow10.com/tags/books/</link>
-      <pubDate>Wed, 13 Jul 2022 14:31:11 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quotes</title>
-      <link>https://www.sparrow10.com/tags/quotes/</link>
-      <pubDate>Wed, 13 Jul 2022 14:31:11 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/quotes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>stoicism</title>
       <link>https://www.sparrow10.com/tags/stoicism/</link>
       <pubDate>Wed, 13 Jul 2022 14:31:11 +0000</pubDate>
@@ -171,7 +180,7 @@
     </item>
     
     <item>
-      <title>the expanse</title>
+      <title>the-expanse</title>
       <link>https://www.sparrow10.com/tags/the-expanse/</link>
       <pubDate>Mon, 11 Jul 2022 23:17:05 +0000</pubDate>
       
@@ -180,7 +189,7 @@
     </item>
     
     <item>
-      <title>tv shows</title>
+      <title>tv-shows</title>
       <link>https://www.sparrow10.com/tags/tv-shows/</link>
       <pubDate>Mon, 11 Jul 2022 23:17:05 +0000</pubDate>
       
@@ -207,7 +216,7 @@
     </item>
     
     <item>
-      <title>github pages</title>
+      <title>github-pages</title>
       <link>https://www.sparrow10.com/tags/github-pages/</link>
       <pubDate>Fri, 08 Jul 2022 17:00:00 +0000</pubDate>
       

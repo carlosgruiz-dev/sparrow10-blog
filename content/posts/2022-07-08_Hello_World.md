@@ -2,7 +2,7 @@
 title: "Hello, World!"
 date: 2022-07-08T17:00:00Z
 draft: false
-tags: ["random", "github pages", "hugo"]
+tags: ["random", "github-pages", "hugo"]
 ---
 
 So yes, I started a new blog. Because GitHub pages and Hugo are not a big deal, this was the easy

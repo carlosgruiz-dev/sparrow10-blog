@@ -2,7 +2,7 @@
 title: "The Expanse"
 date: 2022-07-11T23:17:05Z
 draft: false
-tags: ["sci-fi", "the expanse", "books", "tv shows", "youtube"]
+tags: ["sci-fi", "the-expanse", "books", "tv-shows", "youtube"]
 ---
 
 Not so long ago, I realized that I became a fan of sci-fi and fantasy. After watching the
