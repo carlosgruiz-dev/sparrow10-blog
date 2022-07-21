@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 19 Jul 2022 22:51:25 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jul 2022 21:31:28 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tic-Tac-Toe (Part 1)</title>
+      <link>https://www.sparrow10.com/posts/2022-07-20_tic_tac_toe/</link>
+      <pubDate>Wed, 20 Jul 2022 21:31:28 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-20_tic_tac_toe/</guid>
+      <description>Tic-tac-toe is a popular game that everyone has played once. But playing and explaining the game to a computer are different things. So, this article is a kind of explanation for non-programmers about how we reason about automating routines or creating programs.
+Let&amp;rsquo;s start with the central part of the game, the board. Our board is a 3x3 table where we place our moves. If we want the computer to understand what is happening on the board, we must identify the possible positions.</description>
+    </item>
+    
     <item>
       <title>Atomic Habits (Quotes)</title>
       <link>https://www.sparrow10.com/posts/2022-07-19_atomic_habits/</link>
