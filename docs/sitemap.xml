@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-07-21T22:45:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala/</loc>
+    <lastmod>2022-07-21T22:45:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-07-21T22:45:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-21T22:45:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-21_why_scala/</loc>
+    <lastmod>2022-07-21T22:45:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/youtube/</loc>
+    <lastmod>2022-07-21T22:45:16+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/games/</loc>
     <lastmod>2022-07-20T21:31:28+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-07-20T21:31:28+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/programming/</loc>
-    <lastmod>2022-07-20T21:31:28+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-20T21:31:28+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-07-20T21:31:28+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-20_tic_tac_toe/</loc>
@@ -42,9 +51,6 @@
     <lastmod>2022-07-18T21:29:57+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-18_playing_scalajs_canvas_code/</loc>
-    <lastmod>2022-07-18T21:29:57+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/scala/</loc>
     <lastmod>2022-07-18T21:29:57+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/scala.js/</loc>
@@ -108,9 +114,6 @@
     <lastmod>2022-07-11T23:17:05+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/tv-shows/</loc>
-    <lastmod>2022-07-11T23:17:05+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/youtube/</loc>
     <lastmod>2022-07-11T23:17:05+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/editors/</loc>
