@@ -23,8 +23,8 @@ intuitive.
 Now is easier to see when a user wins. One way to know if a player has three positions in a row is
 to use a simple sum operation to calculate the state of the winning positions on the board. In
 other words, if `Player X` adds `1` point and `Player O` subtracts `1` to the row. `Player X` wins
-if it sums total `3`, and `Player O` wins if it computes -3. With this we create this winning
-conditions for our game like follows.
+if it sums a total of `3`, and `Player O` wins if it computes -3. With this, we create these 
+winning conditions for our game as follows.
 
 ```text
 Player X = 1
@@ -58,20 +58,20 @@ p7 + p5 + p3 = [+3 / -3]
 
 ## The loop
 
-Now comes the game loop, when every player has its turn and mark a place in the board. So the game
-loop sounds like this:
+Now comes the game loop, when every player has their turn and marks a place on the board. So the
+game loop sounds like this:
 
 ```text
-1. A player selects a position available in the board
+1. A player selects a position available on the board
 2. The game checks if there is a winner
   - If so, celebrates and the game ends.
-3. The game checks if the board have more additional spaces left.
+3. The game checks if the board has more additional spaces left.
   - If so, changes the current user and start step 1 again.
   - If not, game ends with no winner.
 ```
 
-So, that's it. In another post we will create our tic-tac-toe game in a spreadsheet, and when we do, you will
-be officially a programmer.
+So, that's it. In another post we will create our tic-tac-toe game in a spreadsheet, and when we
+do, you will be officially a programmer.
 
 See you next time.
 
