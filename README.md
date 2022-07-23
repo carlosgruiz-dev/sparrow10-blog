@@ -4,7 +4,7 @@
 
 This blog, as I intended, is casual and relaxed. Half baked ideas, and some notes. Maybe as a longer format for my Twitter account. Sure I’ll drop techie stuff here but also expect some random stuff. 
 
-From a technical point of view, this is a blog made with [Hugo][3] and the theme [Ink].
+From a technical point of view, this is a blog made with [Hugo][3] and the theme [Ink][4].
 
 [1]: https://github.com/carlosgruiz-dev/sparrow10-blog/raw/main/static/images/sparrow10com.jpg
 [2]: https://www.sparrow10.com
