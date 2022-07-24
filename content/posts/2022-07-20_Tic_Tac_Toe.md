@@ -23,7 +23,7 @@ intuitive.
 Now is easier to see when a user wins. One way to know if a player has three positions in a row is
 to use a simple sum operation to calculate the state of the winning positions on the board. In
 other words, if `Player X` adds `1` point and `Player O` subtracts `1` to the row. `Player X` wins
-if it sums a total of `3`, and `Player O` wins if it computes -3. With this, we create these 
+if it sums a total of `3`, and `Player O` wins if it computes -3. With this, we create these
 winning conditions for our game as follows.
 
 ```text

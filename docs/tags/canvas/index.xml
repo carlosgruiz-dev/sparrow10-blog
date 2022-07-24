@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 18 Jul 2022 21:29:57 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Jul 2022 22:30:22 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playing with Scala.js and a canvas (Part 2)</title>
+      <link>https://www.sparrow10.com/posts/2022-07-23_playing_scalajs_canvas_2/</link>
+      <pubDate>Sat, 23 Jul 2022 22:30:22 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-23_playing_scalajs_canvas_2/</guid>
+      <description>Today I played a little more with Scala.js, and make some progress on my tic-tac-toe project 🙂.
+ See you in another post.</description>
+    </item>
+    
     <item>
       <title>Playing with Scala.js and a canvas (code)</title>
       <link>https://www.sparrow10.com/posts/2022-07-18_playing_scalajs_canvas_code/</link>
