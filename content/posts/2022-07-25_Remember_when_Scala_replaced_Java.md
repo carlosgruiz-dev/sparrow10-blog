@@ -1,6 +1,6 @@
 ---
 title: "Remember when Scala replaced Java?"
-date: 2022-07-26T04:11:39Z
+date: 2022-07-25T1111111111111111111111:11:39Z
 draft: false
 tags: ["twitter", "scala", "java", "fun"]
 ---
