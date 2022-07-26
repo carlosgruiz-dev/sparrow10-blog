@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sparrow10.com/tags/actor-model/</loc>
-    <lastmod>2022-07-24T22:26:37+00:00</lastmod>
+    <loc>https://www.sparrow10.com/tags/fun/</loc>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/java/</loc>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-07-24T22:26:37+00:00</lastmod>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-25_remember_when_scala_replaced_java/</loc>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala/</loc>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-24T22:26:37+00:00</lastmod>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/twitter/</loc>
+    <lastmod>2022-07-26T04:11:39+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/actor-model/</loc>
     <lastmod>2022-07-24T22:26:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-24_the_actor_model/</loc>
@@ -29,9 +44,6 @@
     <loc>https://www.sparrow10.com/posts/2022-07-23_playing_scalajs_canvas_2/</loc>
     <lastmod>2022-07-23T22:30:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/scala/</loc>
-    <lastmod>2022-07-23T22:30:22+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/scala.js/</loc>
     <lastmod>2022-07-23T22:30:22+00:00</lastmod>
   </url><url>
@@ -39,12 +51,6 @@
     <lastmod>2022-07-23T22:30:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-22_wq_to_exit_conversation/</loc>
-    <lastmod>2022-07-22T22:12:17+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/fun/</loc>
-    <lastmod>2022-07-22T22:12:17+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/twitter/</loc>
     <lastmod>2022-07-22T22:12:17+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/vim/</loc>
@@ -91,9 +97,6 @@
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-16_the_data_engineers_playlist/</loc>
     <lastmod>2022-07-16T21:51:28+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/coding/</loc>
-    <lastmod>2022-07-15T19:18:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-15_whats_stopping_you_from_coding/</loc>
     <lastmod>2022-07-15T19:18:39+00:00</lastmod>

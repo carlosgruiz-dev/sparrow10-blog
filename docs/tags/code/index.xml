@@ -19,5 +19,14 @@
 Using a Scala object, we create a method called main and add an annotation to say the Scala.js compiler that we want to expose this function. Inside the function, we create a canvas object, add it to the dom, and adjust its size to fill all the space.</description>
     </item>
     
+    <item>
+      <title>What’s stopping you from coding like this?</title>
+      <link>https://www.sparrow10.com/posts/2022-07-15_whats_stopping_you_from_coding/</link>
+      <pubDate>Fri, 15 Jul 2022 19:18:39 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-15_whats_stopping_you_from_coding/</guid>
+      <description>tweet by @tlakomy</description>
+    </item>
+    
   </channel>
 </rss>
