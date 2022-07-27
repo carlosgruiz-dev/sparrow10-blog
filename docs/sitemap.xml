@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/music/</loc>
+    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-26_time_capsule_playlist/</loc>
+    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/fun/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/java/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-07-25T11:11:39+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-25_remember_when_scala_replaced_java/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/scala/</loc>
-    <lastmod>2022-07-25T11:11:39+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-25T11:11:39+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/twitter/</loc>
@@ -90,9 +96,6 @@
     <lastmod>2022-07-17T12:33:50+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/data-engineering/</loc>
-    <lastmod>2022-07-16T21:51:28+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/music/</loc>
     <lastmod>2022-07-16T21:51:28+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-16_the_data_engineers_playlist/</loc>

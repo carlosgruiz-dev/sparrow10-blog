@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 25 Jul 2022 11:11:39 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 20:23:15 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>music</title>
+      <link>https://www.sparrow10.com/tags/music/</link>
+      <pubDate>Tue, 26 Jul 2022 20:23:15 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>fun</title>
       <link>https://www.sparrow10.com/tags/fun/</link>
@@ -167,15 +176,6 @@
       <pubDate>Sat, 16 Jul 2022 21:51:28 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/data-engineering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>https://www.sparrow10.com/tags/music/</link>
-      <pubDate>Sat, 16 Jul 2022 21:51:28 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/music/</guid>
       <description></description>
     </item>
     
