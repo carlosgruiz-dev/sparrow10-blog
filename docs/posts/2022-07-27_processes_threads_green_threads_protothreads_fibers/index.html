@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Processes, threads, green threads, protothreads, fibers, coroutines: what&#39;s the difference? - Sparrow10</title><link rel="icon" type="image/png" href=/favicon.ico />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="Processes, threads, green threads, protothreads, fibers, coroutines: what&#39;s the difference?">
+<meta itemprop="description" content="I found this answer on StackOverflow that is worth saving and revisiting in the future. Concurrency is a broad topic, having a lot of options and layers of implementation. Well, let&rsquo;s make this a starting point.
+ OK, I&rsquo;m going to do my best. There are caveats everywhere, but I&rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&rsquo;ve given."><meta itemprop="datePublished" content="2022-07-27T21:45:22+00:00" />
+<meta itemprop="dateModified" content="2022-07-27T21:45:22+00:00" />
+<meta itemprop="wordCount" content="347">
+<meta itemprop="keywords" content="concurrency," /><meta property="og:title" content="Processes, threads, green threads, protothreads, fibers, coroutines: what&#39;s the difference?" />
+<meta property="og:description" content="I found this answer on StackOverflow that is worth saving and revisiting in the future. Concurrency is a broad topic, having a lot of options and layers of implementation. Well, let&rsquo;s make this a starting point.
+ OK, I&rsquo;m going to do my best. There are caveats everywhere, but I&rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&rsquo;ve given." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-07-27T21:45:22+00:00" />
+<meta property="article:modified_time" content="2022-07-27T21:45:22+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Processes, threads, green threads, protothreads, fibers, coroutines: what&#39;s the difference?"/>
+<meta name="twitter:description" content="I found this answer on StackOverflow that is worth saving and revisiting in the future. Concurrency is a broad topic, having a lot of options and layers of implementation. Well, let&rsquo;s make this a starting point.
+ OK, I&rsquo;m going to do my best. There are caveats everywhere, but I&rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&rsquo;ve given."/>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.sparrow10.com/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.sparrow10.com/css/main.css" />
+
+        <link id="dark-scheme" rel="stylesheet" type="text/css" href="https://www.sparrow10.com/css/dark.css" />
+
+	<script src="https://www.sparrow10.com/js/feather.min.js"></script>
+	
+		<script src="https://www.sparrow10.com/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	
+		<div class="avatar">
+			<a href="https://www.sparrow10.com/">
+				<img src="/images/sparrow10com.jpg" alt="Sparrow10" />
+			</a>
+		</div>
+	
+	<h1 class="site-title"><a href="https://www.sparrow10.com/">Sparrow10</a></h1>
+	<div class="site-description"><p>Ideas, drafts, and hacks</p><nav class="nav social">
+			<ul class="flat"><li><a href="https://twitter.com/carlosgruiz_dev" title="Twitter"><i data-feather="twitter"></i></a></li><li><a href="https://github.com/carlosgruiz-dev" title="Github"><i data-feather="github"></i></a></li><li><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></li><li><a href="#" class="scheme-toggle" id="scheme-toggle"></a></li></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="/about">About</a>
+			</li>
+			
+			<li>
+				<a href="/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post">
+			<div class="post-header">
+				
+					<div class="meta">
+						<div class="date">
+							<span class="day">27</span>
+							<span class="rest">Jul 2022</span>
+						</div>
+					</div>
+				
+				<div class="matter">
+					<h1 class="title">Processes, threads, green threads, protothreads, fibers, coroutines: what&#39;s the difference?</h1>
+				</div>
+			</div>
+					
+			<div class="markdown">
+				<p>I found this answer on <a href="https://stackoverflow.com/a/3325985">StackOverflow</a> that is worth saving and revisiting in the future.
+Concurrency is a broad topic, having a lot of options and layers of implementation. Well, let&rsquo;s
+make this a starting point.</p>
+<blockquote>
+<p>OK, I&rsquo;m going to do my best. There are caveats everywhere, but I&rsquo;m going to do my best to
+give my understanding of these terms and references to something that approximates the
+definition I&rsquo;ve given.</p>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Process_(computing)">Process</a>: OS-managed (possibly) truly concurrent, at least in the presence of suitable
+hardware support. Exist within their own address space.</li>
+<li><a href="http://en.wikipedia.org/wiki/Thread_(computer_science)">Thread</a>: OS-managed, within the same address space as the parent and all its other threads.
+Possibly truly concurrent, and multi-tasking is pre-emptive.</li>
+<li><a href="http://en.wikipedia.org/wiki/Green_threads">Green Thread</a>: These are user-space projections of the same concept as threads, but are
+not OS-managed. Probably not truly concurrent, except in the sense that there may be multiple
+worker threads or processes giving them CPU time concurrently, so probably best to consider this
+as interleaved or multiplexed.</li>
+<li><a href="http://www.sics.se/~adam/pt/">Protothreads</a>: I couldn&rsquo;t really tease a definition out of these. I think they are
+interleaved and program-managed, but don&rsquo;t take my word for it. My sense was that they are
+essentially an application-specific implementation of the same kind of &ldquo;green threads&rdquo; model,
+with appropriate modification for the application domain.</li>
+<li><a href="http://en.wikipedia.org/wiki/Fiber_(computer_science)">Fibers</a>: OS-managed. Exactly threads, except co-operatively multitasking, and hence not
+truly concurrent.</li>
+<li><a href="http://en.wikipedia.org/wiki/Coroutine">Coroutines</a>: Exactly fibers, except not OS-managed.</li>
+<li><a href="http://www.go-program.com/goroutines/">Goroutines</a>: They claim to be unlike anything else, but they seem to be exactly green
+threads, as in, process-managed in a single address space and multiplexed onto system threads.
+Perhaps somebody with more knowledge of Go can cut through the marketing material.</li>
+</ul>
+<p>It&rsquo;s also worth noting that there are other understandings in concurrency theory of the term
+&ldquo;process&rdquo;, in the <a href="http://en.wikipedia.org/wiki/Process_calculus">process calculus</a> sense. This definition is orthogonal to those above, but
+I just thought it worth mentioning so that no confusion arises should you see process used in
+that sense somewhere.</p>
+<p>Also, be aware of the difference between <a href="http://en.wikipedia.org/wiki/Parallel_computing">parallel</a> and <a href="http://en.wikipedia.org/wiki/Concurrency_(computer_science)">concurrent</a>. It&rsquo;s possible you
+were using the former in your question where I think you meant the latter.</p>
+</blockquote>
+<p><a href="https://stackoverflow.com/a/3325985">(source)</a></p>
+
+			</div>
+
+			<div class="tags">
+				
+					
+						<ul class="flat">
+							
+							<li><a href="/tags/concurrency">concurrency</a></li>
+							
+						</ul>
+					
+				
+			</div></div>
+	</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>2022  © <a href='https://carlosgustavoruiz.me'>Carlos Gustavo Ruiz</a> |  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+<script>feather.replace()</script>
+</body>
+</html>

@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sparrow10.com/tags/music/</loc>
-    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+    <loc>https://www.sparrow10.com/tags/concurrency/</loc>
+    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</loc>
+    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
+    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/music/</loc>
     <lastmod>2022-07-26T20:23:15+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-26_time_capsule_playlist/</loc>

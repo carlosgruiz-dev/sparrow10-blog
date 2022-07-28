@@ -2,7 +2,7 @@
 title: "The Actor Model"
 date: 2022-07-24T22:26:37Z
 draft: false
-tags: ["youtube", "actor-model"]
+tags: ["youtube", "actor-model", "concurrency"]
 ---
 
 {{< youtube 7erJ1DV_Tlo >}}
