@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stackoverflow on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/stackoverflow/</link>
+    <description>Recent content in stackoverflow on Sparrow10</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 27 Jul 2022 21:45:22 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/stackoverflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Processes, threads, green threads, protothreads, fibers, coroutines: what&#39;s the difference?</title>
+      <link>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</link>
+      <pubDate>Wed, 27 Jul 2022 21:45:22 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</guid>
+      <description>I found this answer on StackOverflow that is worth saving and revisiting in the future. Concurrency is a broad topic, having a lot of options and layers of implementation. Well, let&amp;rsquo;s make this a starting point.
+ OK, I&amp;rsquo;m going to do my best. There are caveats everywhere, but I&amp;rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&amp;rsquo;ve given.</description>
+    </item>
+    
+  </channel>
+</rss>

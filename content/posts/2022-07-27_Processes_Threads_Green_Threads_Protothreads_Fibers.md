@@ -2,7 +2,7 @@
 title: "Processes, threads, green threads, protothreads, fibers, coroutines: what's the difference?"
 date: 2022-07-27T21:45:22Z
 draft: false
-tags: ["concurrency"]
+tags: ["concurrency", "stackoverflow"]
 ---
 
 I found this answer on [StackOverflow][1] that is worth saving and revisiting in the future.

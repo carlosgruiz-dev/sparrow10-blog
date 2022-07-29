@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 25 Jul 2022 11:11:39 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2022 15:02:37 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/scala/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The &#34;N&#34; word (Monads)</title>
+      <link>https://www.sparrow10.com/posts/2022-07-28_the_n_word_monads/</link>
+      <pubDate>Thu, 28 Jul 2022 15:02:37 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-28_the_n_word_monads/</guid>
+      <description>When you start with functional programming, saying the M word is like swearing. This esoteric, strange, and uncommon word points to a general pattern that takes some time to grasp. Despite saying that a monad is a monoid in the category of endofunctors is accurate, for a newbie is as unhelpful as comparing monads with burritos. It just misses the point.
+Here are some videos I found valuable for understanding this concept with a practical approach.</description>
+    </item>
+    
     <item>
       <title>Remember when Scala replaced Java?</title>
       <link>https://www.sparrow10.com/posts/2022-07-25_remember_when_scala_replaced_java/</link>

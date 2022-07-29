@@ -2,19 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sparrow10.com/tags/concurrency/</loc>
-    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
+    <loc>https://www.sparrow10.com/tags/functional-programming/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/haskell/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-28_the_n_word_monads/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/typescript/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/youtube/</loc>
+    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/concurrency/</loc>
     <lastmod>2022-07-27T21:45:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</loc>
     <lastmod>2022-07-27T21:45:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
+    <loc>https://www.sparrow10.com/tags/stackoverflow/</loc>
     <lastmod>2022-07-27T21:45:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/music/</loc>
@@ -32,9 +53,6 @@
     <loc>https://www.sparrow10.com/posts/2022-07-25_remember_when_scala_replaced_java/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/scala/</loc>
-    <lastmod>2022-07-25T11:11:39+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/twitter/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
@@ -42,9 +60,6 @@
     <lastmod>2022-07-24T22:26:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-24_the_actor_model/</loc>
-    <lastmod>2022-07-24T22:26:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/youtube/</loc>
     <lastmod>2022-07-24T22:26:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/canvas/</loc>
