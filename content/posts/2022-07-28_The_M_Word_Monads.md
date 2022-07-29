@@ -1,5 +1,5 @@
 ---
-title: "The \"N\" word (Monads)"
+title: "The \"M\" word (Monads)"
 date: 2022-07-28T15:02:37Z
 draft: false
 tags: ["functional-programming", "youtube", "typescript", "scala", "haskell"]
