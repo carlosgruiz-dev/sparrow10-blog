@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/programming/</loc>
+    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-29_the_future_of_programming/</loc>
+    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/vimeo/</loc>
+    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/functional-programming/</loc>
     <lastmod>2022-07-28T15:02:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/haskell/</loc>
     <lastmod>2022-07-28T15:02:37+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/scala/</loc>
-    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-07-28T15:02:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-28_the_m_word_monads/</loc>
@@ -87,9 +96,6 @@
     <lastmod>2022-07-21T22:45:16+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/games/</loc>
-    <lastmod>2022-07-20T21:31:28+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/programming/</loc>
     <lastmod>2022-07-20T21:31:28+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-20_tic_tac_toe/</loc>
