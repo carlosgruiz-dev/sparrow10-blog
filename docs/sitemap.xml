@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+    <loc>https://www.sparrow10.com/tags/fun/</loc>
+    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/programming/</loc>
-    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-07-30_select_distinct/</loc>
+    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-29T10:48:46+00:00</lastmod>
+    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/sql/</loc>
+    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/twitter/</loc>
+    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/programming/</loc>
     <lastmod>2022-07-29T10:48:46+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-29_the_future_of_programming/</loc>
@@ -53,16 +65,10 @@
     <loc>https://www.sparrow10.com/posts/2022-07-26_time_capsule_playlist/</loc>
     <lastmod>2022-07-26T20:23:15+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/fun/</loc>
-    <lastmod>2022-07-25T11:11:39+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/java/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-25_remember_when_scala_replaced_java/</loc>
-    <lastmod>2022-07-25T11:11:39+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/twitter/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/actor-model/</loc>
