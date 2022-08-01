@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 30 Jul 2022 19:43:07 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 20:42:48 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>elm</title>
+      <link>https://www.sparrow10.com/tags/elm/</link>
+      <pubDate>Sun, 31 Jul 2022 20:42:48 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/elm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional-programming</title>
+      <link>https://www.sparrow10.com/tags/functional-programming/</link>
+      <pubDate>Sun, 31 Jul 2022 20:42:48 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/functional-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>https://www.sparrow10.com/tags/games/</link>
+      <pubDate>Sun, 31 Jul 2022 20:42:48 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haskell</title>
+      <link>https://www.sparrow10.com/tags/haskell/</link>
+      <pubDate>Sun, 31 Jul 2022 20:42:48 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purescript</title>
+      <link>https://www.sparrow10.com/tags/purescript/</link>
+      <pubDate>Sun, 31 Jul 2022 20:42:48 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/purescript/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>fun</title>
       <link>https://www.sparrow10.com/tags/fun/</link>
@@ -50,24 +95,6 @@
       <pubDate>Fri, 29 Jul 2022 10:48:46 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/vimeo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>functional-programming</title>
-      <link>https://www.sparrow10.com/tags/functional-programming/</link>
-      <pubDate>Thu, 28 Jul 2022 15:02:37 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/functional-programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>haskell</title>
-      <link>https://www.sparrow10.com/tags/haskell/</link>
-      <pubDate>Thu, 28 Jul 2022 15:02:37 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/haskell/</guid>
       <description></description>
     </item>
     
@@ -185,15 +212,6 @@
       <pubDate>Fri, 22 Jul 2022 22:12:17 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/vim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>games</title>
-      <link>https://www.sparrow10.com/tags/games/</link>
-      <pubDate>Wed, 20 Jul 2022 21:31:28 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/games/</guid>
       <description></description>
     </item>
     

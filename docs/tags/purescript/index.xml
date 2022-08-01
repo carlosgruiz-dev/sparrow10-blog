@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>purescript on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/purescript/</link>
+    <description>Recent content in purescript on Sparrow10</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 31 Jul 2022 20:42:48 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/purescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Type-Signature</title>
+      <link>https://www.sparrow10.com/posts/2022-07-31_type_signature/</link>
+      <pubDate>Sun, 31 Jul 2022 20:42:48 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-07-31_type_signature/</guid>
+      <description>If you like functional programming, this is an awesome game you don&amp;rsquo;t want to miss. Well, it is cool if you are nerd enough to try to guess the function names from their signatures. It has been some time since I played with Haskell, so scoring 6/6 was a complete surprise.
+Try it yourself! 😃
+
+Hey there, I scored 6/6 on https://t.co/BO5nF19zTO. Give it a shot! #Haskell via @_andys8</description>
+    </item>
+    
+  </channel>
+</rss>
