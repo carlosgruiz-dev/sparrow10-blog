@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/fun/</loc>
+    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-08-01_problems_with_recursion/</loc>
+    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/recursion/</loc>
+    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/twitter/</loc>
+    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/elm/</loc>
     <lastmod>2022-07-31T20:42:48+00:00</lastmod>
   </url><url>
@@ -14,31 +35,16 @@
     <loc>https://www.sparrow10.com/tags/haskell/</loc>
     <lastmod>2022-07-31T20:42:48+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-07-31T20:42:48+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/purescript/</loc>
-    <lastmod>2022-07-31T20:42:48+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-07-31T20:42:48+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-07-31T20:42:48+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-31_type_signature/</loc>
     <lastmod>2022-07-31T20:42:48+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/fun/</loc>
-    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-30_select_distinct/</loc>
     <lastmod>2022-07-30T19:43:07+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/sql/</loc>
-    <lastmod>2022-07-30T19:43:07+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/twitter/</loc>
     <lastmod>2022-07-30T19:43:07+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/programming/</loc>
