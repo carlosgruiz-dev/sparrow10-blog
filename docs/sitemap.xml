@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sparrow10.com/tags/fun/</loc>
-    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
+    <loc>https://www.sparrow10.com/tags/git/</loc>
+    <lastmod>2022-08-02T11:21:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-08-02_git_workflow/</loc>
+    <lastmod>2022-08-02T11:21:33+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-02T11:21:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-02T11:21:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-02T11:21:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/twitter/</loc>
+    <lastmod>2022-08-02T11:21:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/fun/</loc>
     <lastmod>2022-08-01T22:38:54+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-01_problems_with_recursion/</loc>
     <lastmod>2022-08-01T22:38:54+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/recursion/</loc>
-    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
-    <lastmod>2022-08-01T22:38:54+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/twitter/</loc>
     <lastmod>2022-08-01T22:38:54+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/elm/</loc>
