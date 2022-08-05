@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/data-engineering/</loc>
+    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/kafka/</loc>
+    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-08-04_why_is_kafka_fast/</loc>
+    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/youtube/</loc>
+    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-03_a_gift_from_my_wife/</loc>
     <lastmod>2022-08-03T23:42:33+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/family/</loc>
     <lastmod>2022-08-03T23:42:33+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-08-03T23:42:33+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-08-03T23:42:33+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/sparrows/</loc>
-    <lastmod>2022-08-03T23:42:33+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-08-03T23:42:33+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/git/</loc>
@@ -78,9 +90,6 @@
     <lastmod>2022-07-28T15:02:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/typescript/</loc>
-    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/youtube/</loc>
     <lastmod>2022-07-28T15:02:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/concurrency/</loc>
@@ -157,9 +166,6 @@
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-17_playing_scalajs_canvas/</loc>
     <lastmod>2022-07-17T12:33:50+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/data-engineering/</loc>
-    <lastmod>2022-07-16T21:51:28+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-16_the_data_engineers_playlist/</loc>
     <lastmod>2022-07-16T21:51:28+00:00</lastmod>

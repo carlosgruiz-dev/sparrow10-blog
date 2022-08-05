@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>data-engineering on Sparrow10</title>
-    <link>https://www.sparrow10.com/tags/data-engineering/</link>
-    <description>Recent content in data-engineering on Sparrow10</description>
+    <title>kafka on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/kafka/</link>
+    <description>Recent content in kafka on Sparrow10</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 04 Aug 2022 10:29:31 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/data-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 10:29:31 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why is Kafka fast? (by Sahn Lam)</title>
       <link>https://www.sparrow10.com/posts/2022-08-04_why_is_kafka_fast/</link>
@@ -15,15 +15,6 @@
       
       <guid>https://www.sparrow10.com/posts/2022-08-04_why_is_kafka_fast/</guid>
       <description>Apache Kafka is a central piece for a lot of data architectures. One of Kafka&amp;rsquo;s key features is velocity, in addition to the publish-subscribe pattern, logs, and more. This video shows what people mean when they say Kafka is fast, and how it is accomplished.</description>
-    </item>
-    
-    <item>
-      <title>The Data Engineer&#39;s Playlist</title>
-      <link>https://www.sparrow10.com/posts/2022-07-16_the_data_engineers_playlist/</link>
-      <pubDate>Sat, 16 Jul 2022 21:51:28 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/posts/2022-07-16_the_data_engineers_playlist/</guid>
-      <description>The Data Engineer&amp;rsquo;s Playlist on Spotify</description>
     </item>
     
   </channel>

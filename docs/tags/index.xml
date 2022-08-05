@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 03 Aug 2022 23:42:33 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 10:29:31 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data-engineering</title>
+      <link>https://www.sparrow10.com/tags/data-engineering/</link>
+      <pubDate>Thu, 04 Aug 2022 10:29:31 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/data-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kafka</title>
+      <link>https://www.sparrow10.com/tags/kafka/</link>
+      <pubDate>Thu, 04 Aug 2022 10:29:31 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://www.sparrow10.com/tags/youtube/</link>
+      <pubDate>Thu, 04 Aug 2022 10:29:31 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>family</title>
       <link>https://www.sparrow10.com/tags/family/</link>
@@ -153,15 +180,6 @@
     </item>
     
     <item>
-      <title>youtube</title>
-      <link>https://www.sparrow10.com/tags/youtube/</link>
-      <pubDate>Thu, 28 Jul 2022 15:02:37 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>concurrency</title>
       <link>https://www.sparrow10.com/tags/concurrency/</link>
       <pubDate>Wed, 27 Jul 2022 21:45:22 +0000</pubDate>
@@ -284,15 +302,6 @@
       <pubDate>Mon, 18 Jul 2022 21:29:57 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data-engineering</title>
-      <link>https://www.sparrow10.com/tags/data-engineering/</link>
-      <pubDate>Sat, 16 Jul 2022 21:51:28 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/data-engineering/</guid>
       <description></description>
     </item>
     

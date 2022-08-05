@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 03 Aug 2022 23:42:33 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 10:29:31 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why is Kafka fast? (by Sahn Lam)</title>
+      <link>https://www.sparrow10.com/posts/2022-08-04_why_is_kafka_fast/</link>
+      <pubDate>Thu, 04 Aug 2022 10:29:31 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-08-04_why_is_kafka_fast/</guid>
+      <description>Apache Kafka is a central piece for a lot of data architectures. One of Kafka&amp;rsquo;s key features is velocity, in addition to the publish-subscribe pattern, logs, and more. This video shows what people mean when they say Kafka is fast, and how it is accomplished.</description>
+    </item>
+    
     <item>
       <title>A gift from my wife</title>
       <link>https://www.sparrow10.com/posts/2022-08-03_a_gift_from_my_wife/</link>
