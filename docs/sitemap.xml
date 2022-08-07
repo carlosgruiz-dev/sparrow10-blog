@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/gist/</loc>
+    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/lists/</loc>
+    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/panama/</loc>
+    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-08-06_restaurants_in_panama/</loc>
+    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-05_glot_a_runnable_pastebin/</loc>
     <lastmod>2022-08-05T10:33:03+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/haskell/</loc>
     <lastmod>2022-08-05T10:33:03+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-08-05T10:33:03+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/programming/</loc>
-    <lastmod>2022-08-05T10:33:03+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-08-05T10:33:03+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-08-05T10:33:03+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/tools/</loc>
