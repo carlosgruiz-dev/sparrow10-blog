@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>How to start a Scala.js project - Sparrow10</title><link rel="icon" type="image/png" href=/favicon.ico />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<link rel="manifest" href="/site.webmanifest"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="How to start a Scala.js project">
+<meta itemprop="description" content="Scala.js is a Scala to JavaScript compiler. In this post, we are going to see a couple of ways to start a project. Foremost we need to install sbt and node.js (I prefer to use nvm which allows us to install and use different versions).
+One way to start a project in Scala is using a giter8 template. For Scala.js there is no template from official sources, but some were created by third parties."><meta itemprop="datePublished" content="2022-08-07T17:51:26+00:00" />
+<meta itemprop="dateModified" content="2022-08-07T17:51:26+00:00" />
+<meta itemprop="wordCount" content="261">
+<meta itemprop="keywords" content="scala.js,scala,web,sbt,tools," /><meta property="og:title" content="How to start a Scala.js project" />
+<meta property="og:description" content="Scala.js is a Scala to JavaScript compiler. In this post, we are going to see a couple of ways to start a project. Foremost we need to install sbt and node.js (I prefer to use nvm which allows us to install and use different versions).
+One way to start a project in Scala is using a giter8 template. For Scala.js there is no template from official sources, but some were created by third parties." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.sparrow10.com/posts/2022-08-07_how_to_start_a_scalajs_project/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-08-07T17:51:26+00:00" />
+<meta property="article:modified_time" content="2022-08-07T17:51:26+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="How to start a Scala.js project"/>
+<meta name="twitter:description" content="Scala.js is a Scala to JavaScript compiler. In this post, we are going to see a couple of ways to start a project. Foremost we need to install sbt and node.js (I prefer to use nvm which allows us to install and use different versions).
+One way to start a project in Scala is using a giter8 template. For Scala.js there is no template from official sources, but some were created by third parties."/>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.sparrow10.com/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.sparrow10.com/css/main.css" />
+
+        <link id="dark-scheme" rel="stylesheet" type="text/css" href="https://www.sparrow10.com/css/dark.css" />
+
+	<script src="https://www.sparrow10.com/js/feather.min.js"></script>
+	
+		<script src="https://www.sparrow10.com/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper">
+		<div class="header">
+	
+		<div class="avatar">
+			<a href="https://www.sparrow10.com/">
+				<img src="/images/sparrow10com.jpg" alt="Sparrow10" />
+			</a>
+		</div>
+	
+	<h1 class="site-title"><a href="https://www.sparrow10.com/">Sparrow10</a></h1>
+	<div class="site-description"><p>Ideas, drafts, and hacks</p><nav class="nav social">
+			<ul class="flat"><li><a href="https://twitter.com/carlosgruiz_dev" title="Twitter"><i data-feather="twitter"></i></a></li><li><a href="https://github.com/carlosgruiz-dev" title="Github"><i data-feather="github"></i></a></li><li><a href="/index.xml" title="RSS"><i data-feather="rss"></i></a></li><li><a href="#" class="scheme-toggle" id="scheme-toggle"></a></li></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+			<li>
+				<a href="/">Home</a>
+			</li>
+			
+			<li>
+				<a href="/posts">All posts</a>
+			</li>
+			
+			<li>
+				<a href="/about">About</a>
+			</li>
+			
+			<li>
+				<a href="/tags">Tags</a>
+			</li>
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post">
+			<div class="post-header">
+				
+					<div class="meta">
+						<div class="date">
+							<span class="day">07</span>
+							<span class="rest">Aug 2022</span>
+						</div>
+					</div>
+				
+				<div class="matter">
+					<h1 class="title">How to start a Scala.js project</h1>
+				</div>
+			</div>
+					
+			<div class="markdown">
+				<p><a href="https://www.scala-js.org/">Scala.js</a> is a Scala to JavaScript compiler. In this post, we are going to see a couple of ways
+to start a project. Foremost we need to install <a href="https://www.scala-sbt.org/1.x/docs/Setup.html">sbt</a> and <a href="https://nodejs.org/">node.js</a> (I prefer to use
+<a href="https://github.com/nvm-sh/nvm#intro">nvm</a> which allows us to install and use different versions).</p>
+<p>One way to start a project in Scala is using a <a href="http://www.foundweekends.org/giter8/">giter8</a> template. For <a href="https://www.scala-js.org/">Scala.js</a> there is no
+template from official sources, but some were created by <a href="https://github.com/foundweekends/giter8/wiki/giter8-templates#scalajs">third parties</a>. These templates create
+projects for <a href="https://www.scala-js.org/">Scala.js</a> and add libraries to help to build your application more easily.</p>
+<p>For example if you wan&rsquo;t to create a project with <a href="https://www.scala-js.org/">Scala.js</a> and <a href="https://doc.akka.io/docs/akka-http/">Akka HTTP</a> you can use
+<a href="http://www.foundweekends.org/giter8/">giter8</a> from <a href="https://www.scala-sbt.org/">sbt</a> on the command line by typing:</p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=akka-http-scalajs-template.txt"></script>
+
+<p>And you are set to start coding your application.</p>
+<p><img src="/images/akka-http-and-scalajs-template-project.png" alt="screenshot of "></p>
+<p>Another option to start a project with <a href="https://www.scala-js.org/">Scala.js</a> is following the steps from the
+documentation to <a href="https://www.scala-js.org/doc/tutorial/basic/">set up a project</a>. In this case, you can add this compilation option to a new
+project or just start on a clean slate. For that we start with a new project, we can use a seed
+<a href="http://www.foundweekends.org/giter8/">giter8</a> project.</p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=create-project-from-giter8-seed.txt"></script>
+
+<p>Now we add the <a href="https://www.scala-js.org/">Scala.js</a> sbt plugin in <code>project/plugins.sbt</code></p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=add-scalajs-sbt-plugin.sbt"></script>
+
+<p>And enable this plugin on the <code>build.sbt</code> file of the project.</p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=enable-scalajs-sbt-plugin.sbt"></script>
+
+<p>Last, we need to specify the <a href="https://www.scala-sbt.org/">sbt</a> version in <code>project/build.properties</code>.</p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=project-build.properties"></script>
+
+<p>To get your stack traces resolved on <a href="https://nodejs.org/">node.js</a>, you will have to install the source-map-support package.</p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=node-packages.txt"></script>
+
+<p>And now lets add some code in <code>src/main/scala/example/Hello.scala</code> to test our configuration.</p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=Hello.scala"></script>
+
+<p>And now we can run the projec typing: <code>sbt run</code></p>
+<script type="application/javascript" src="https://gist.github.com/carlosgruiz-dev/1cd12d9b87c4ffcd14af7f4cae1ba411.js?file=sbt-run.txt"></script>
+
+<p>See you next time to integrate HTML to thie newly created project.</p>
+
+			</div>
+
+			<div class="tags">
+				
+					
+						<ul class="flat">
+							
+							<li><a href="/tags/scala.js">scala.js</a></li>
+							
+							<li><a href="/tags/scala">scala</a></li>
+							
+							<li><a href="/tags/web">web</a></li>
+							
+							<li><a href="/tags/sbt">sbt</a></li>
+							
+							<li><a href="/tags/tools">tools</a></li>
+							
+						</ul>
+					
+				
+			</div></div>
+	</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div>2022  © <a href='https://carlosgustavoruiz.me'>Carlos Gustavo Ruiz</a> |  <a href="https://github.com/knadh/hugo-ink">Ink</a> theme on <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+<script>feather.replace()</script>
+</body>
+</html>

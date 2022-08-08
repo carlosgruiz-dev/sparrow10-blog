@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/posts/2022-08-07_how_to_start_a_scalajs_project/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/sbt/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala.js/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/tools/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/web/</loc>
+    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/gist/</loc>
     <lastmod>2022-08-06T10:26:31+00:00</lastmod>
   </url><url>
@@ -11,16 +38,7 @@
     <loc>https://www.sparrow10.com/tags/panama/</loc>
     <lastmod>2022-08-06T10:26:31+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-06_restaurants_in_panama/</loc>
-    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-08-06T10:26:31+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-08-06T10:26:31+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-05_glot_a_runnable_pastebin/</loc>
@@ -30,9 +48,6 @@
     <lastmod>2022-08-05T10:33:03+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/programming/</loc>
-    <lastmod>2022-08-05T10:33:03+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/tools/</loc>
     <lastmod>2022-08-05T10:33:03+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/data-engineering/</loc>
@@ -101,9 +116,6 @@
     <loc>https://www.sparrow10.com/tags/vimeo/</loc>
     <lastmod>2022-07-29T10:48:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/scala/</loc>
-    <lastmod>2022-07-28T15:02:37+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-28_the_m_word_monads/</loc>
     <lastmod>2022-07-28T15:02:37+00:00</lastmod>
   </url><url>
@@ -144,12 +156,6 @@
     <lastmod>2022-07-23T22:30:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-23_playing_scalajs_canvas_2/</loc>
-    <lastmod>2022-07-23T22:30:22+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/scala.js/</loc>
-    <lastmod>2022-07-23T22:30:22+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/web/</loc>
     <lastmod>2022-07-23T22:30:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-22_wq_to_exit_conversation/</loc>

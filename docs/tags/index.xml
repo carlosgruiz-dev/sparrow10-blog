@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 06 Aug 2022 10:26:31 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Aug 2022 17:51:26 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sbt</title>
+      <link>https://www.sparrow10.com/tags/sbt/</link>
+      <pubDate>Sun, 07 Aug 2022 17:51:26 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/sbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scala</title>
+      <link>https://www.sparrow10.com/tags/scala/</link>
+      <pubDate>Sun, 07 Aug 2022 17:51:26 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scala.js</title>
+      <link>https://www.sparrow10.com/tags/scala.js/</link>
+      <pubDate>Sun, 07 Aug 2022 17:51:26 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/scala.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>https://www.sparrow10.com/tags/tools/</link>
+      <pubDate>Sun, 07 Aug 2022 17:51:26 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://www.sparrow10.com/tags/web/</link>
+      <pubDate>Sun, 07 Aug 2022 17:51:26 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/tags/web/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>gist</title>
       <link>https://www.sparrow10.com/tags/gist/</link>
@@ -50,15 +95,6 @@
       <pubDate>Fri, 05 Aug 2022 10:33:03 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tools</title>
-      <link>https://www.sparrow10.com/tags/tools/</link>
-      <pubDate>Fri, 05 Aug 2022 10:33:03 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/tools/</guid>
       <description></description>
     </item>
     
@@ -198,15 +234,6 @@
     </item>
     
     <item>
-      <title>scala</title>
-      <link>https://www.sparrow10.com/tags/scala/</link>
-      <pubDate>Thu, 28 Jul 2022 15:02:37 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/scala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>typescript</title>
       <link>https://www.sparrow10.com/tags/typescript/</link>
       <pubDate>Thu, 28 Jul 2022 15:02:37 +0000</pubDate>
@@ -275,24 +302,6 @@
       <pubDate>Sat, 23 Jul 2022 22:30:22 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scala.js</title>
-      <link>https://www.sparrow10.com/tags/scala.js/</link>
-      <pubDate>Sat, 23 Jul 2022 22:30:22 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/scala.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>https://www.sparrow10.com/tags/web/</link>
-      <pubDate>Sat, 23 Jul 2022 22:30:22 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/tags/web/</guid>
       <description></description>
     </item>
     
