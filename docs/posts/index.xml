@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 08 Aug 2022 19:36:03 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Aug 2022 21:18:06 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Power of Akka</title>
+      <link>https://www.sparrow10.com/posts/2022-08-10_the_power_of_akka/</link>
+      <pubDate>Wed, 10 Aug 2022 21:18:06 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-08-10_the_power_of_akka/</guid>
+      <description>In this short video, the people of Lightbend shows some features of Akka that help to build cloud applications capable of self-healing and scalling.</description>
+    </item>
+    
     <item>
       <title>Practice Objectivity (Quote)</title>
       <link>https://www.sparrow10.com/posts/2022-08-08_practice_objectivity/</link>

@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.sparrow10.com/tags/books/</loc>
-    <lastmod>2022-08-08T19:36:03+00:00</lastmod>
+    <loc>https://www.sparrow10.com/tags/actor-model/</loc>
+    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/akka/</loc>
+    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-08-10_the_power_of_akka/</loc>
+    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/youtube/</loc>
+    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/books/</loc>
     <lastmod>2022-08-08T19:36:03+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-08_practice_objectivity/</loc>
@@ -14,13 +32,7 @@
     <loc>https://www.sparrow10.com/tags/quotes/</loc>
     <lastmod>2022-08-08T19:36:03+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-08-08T19:36:03+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/stoicism/</loc>
-    <lastmod>2022-08-08T19:36:03+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-08-08T19:36:03+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-07_how_to_start_a_scalajs_project/</loc>
@@ -69,9 +81,6 @@
     <lastmod>2022-08-04T10:29:31+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-04_why_is_kafka_fast/</loc>
-    <lastmod>2022-08-04T10:29:31+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/youtube/</loc>
     <lastmod>2022-08-04T10:29:31+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-03_a_gift_from_my_wife/</loc>
@@ -154,9 +163,6 @@
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-25_remember_when_scala_replaced_java/</loc>
     <lastmod>2022-07-25T11:11:39+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/actor-model/</loc>
-    <lastmod>2022-07-24T22:26:37+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-24_the_actor_model/</loc>
     <lastmod>2022-07-24T22:26:37+00:00</lastmod>
