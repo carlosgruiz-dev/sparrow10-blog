@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/canvas/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/javascript/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-08-11_playing_scalajs_canvas_3/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala.js/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/web/</loc>
+    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/actor-model/</loc>
     <lastmod>2022-08-10T21:18:06+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/akka/</loc>
-    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-08-10T21:18:06+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-08-10T21:18:06+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-10_the_power_of_akka/</loc>
@@ -41,16 +59,7 @@
     <loc>https://www.sparrow10.com/tags/sbt/</loc>
     <lastmod>2022-08-07T17:51:26+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/scala/</loc>
-    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/scala.js/</loc>
-    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/tools/</loc>
-    <lastmod>2022-08-07T17:51:26+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/web/</loc>
     <lastmod>2022-08-07T17:51:26+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/gist/</loc>
@@ -166,12 +175,6 @@
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-24_the_actor_model/</loc>
     <lastmod>2022-07-24T22:26:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/canvas/</loc>
-    <lastmod>2022-07-23T22:30:22+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/javascript/</loc>
-    <lastmod>2022-07-23T22:30:22+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-23_playing_scalajs_canvas_2/</loc>
     <lastmod>2022-07-23T22:30:22+00:00</lastmod>
