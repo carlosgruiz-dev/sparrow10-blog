@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gist on Sparrow10</title>
-    <link>https://www.sparrow10.com/tags/gist/</link>
-    <description>Recent content in gist on Sparrow10</description>
+    <title>ssh on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/ssh/</link>
+    <description>Recent content in ssh on Sparrow10</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 13 Aug 2022 13:40:57 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/gist/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 13:40:57 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SSH Port Forwarding</title>
       <link>https://www.sparrow10.com/posts/2022-08-13_port_forwarding/</link>
@@ -17,16 +17,6 @@
       <description>Something I do regulary is accessing a port from a server from my local machine. For this we use SSH Tunneling and the technique called port forwarding. The structure of the command is as follows:
 ssh -L [REMOTE_PORT]:LOCAL_ADDRESS:LOCAL_PORT USER@REMOTE_ADDRESS To avoid login a session on the server, and send this task to process on background, we can add this flags:
 ssh -L [REMOTE_PORT]:LOCAL_ADDRESS:LOCAL_PORT -Nf USER@REMOTE_ADDRESS And if you want to create a shortcut for this using a shell script, you can use this gist as a template.</description>
-    </item>
-    
-    <item>
-      <title>Restaurants in Panama</title>
-      <link>https://www.sparrow10.com/posts/2022-08-06_restaurants_in_panama/</link>
-      <pubDate>Sat, 06 Aug 2022 10:26:31 +0000</pubDate>
-      
-      <guid>https://www.sparrow10.com/posts/2022-08-06_restaurants_in_panama/</guid>
-      <description>I became a fan of making lists, with OpenVE it took off and work now as a community directory. Today almost every restaurant has a QR code to look at their menu. So again, I made a list.
- </description>
     </item>
     
   </channel>
