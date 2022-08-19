@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/books/</loc>
+    <lastmod>2022-08-18T21:58:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-08-18_get_moving/</loc>
+    <lastmod>2022-08-18T21:58:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-08-18T21:58:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/quotes/</loc>
+    <lastmod>2022-08-18T21:58:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-08-18T21:58:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/stoicism/</loc>
+    <lastmod>2022-08-18T21:58:22+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-08-18T21:58:22+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/fun/</loc>
     <lastmod>2022-08-16T19:57:46+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-16_life_after_death_by_powerpoint/</loc>
     <lastmod>2022-08-16T19:57:46+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-08-16T19:57:46+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/powerpoint/</loc>
-    <lastmod>2022-08-16T19:57:46+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-08-16T19:57:46+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-08-16T19:57:46+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/youtube/</loc>
@@ -74,16 +86,7 @@
     <loc>https://www.sparrow10.com/posts/2022-08-10_the_power_of_akka/</loc>
     <lastmod>2022-08-10T21:18:06+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/books/</loc>
-    <lastmod>2022-08-08T19:36:03+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-08_practice_objectivity/</loc>
-    <lastmod>2022-08-08T19:36:03+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/quotes/</loc>
-    <lastmod>2022-08-08T19:36:03+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/stoicism/</loc>
     <lastmod>2022-08-08T19:36:03+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-07_how_to_start_a_scalajs_project/</loc>
