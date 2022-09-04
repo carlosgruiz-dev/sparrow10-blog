@@ -2,7 +2,7 @@
 title: "Kafka Connect Resources"
 date: 2022-09-02T18:04:48Z
 draft: false
-tags: ["kafka", "kafka connect", "apache"]
+tags: ["kafka", "kafka-connect", "apache"]
 ---
 
 These are some resources I'm using to learn about [Kafka Connect][1]. Kafka Connect, is the

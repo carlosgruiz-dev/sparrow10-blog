@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kafka connect on Sparrow10</title>
+    <title>kafka-connect on Sparrow10</title>
     <link>https://www.sparrow10.com/tags/kafka-connect/</link>
-    <description>Recent content in kafka connect on Sparrow10</description>
+    <description>Recent content in kafka-connect on Sparrow10</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>

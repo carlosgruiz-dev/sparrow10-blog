@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 21:45:22 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/stackoverflow/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 12:02:50 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/stackoverflow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to embed a YouTube playlist in a Hugo website</title>
+      <link>https://www.sparrow10.com/posts/2022-09-03_how_to_embed_a_youtube_playlist_in_hugo/</link>
+      <pubDate>Sat, 03 Sep 2022 12:02:50 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-09-03_how_to_embed_a_youtube_playlist_in_hugo/</guid>
+      <description>Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
+To embed a youtube video we can use the following shortcode:
+and the result is as follows:
+  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := .</description>
+    </item>
+    
     <item>
       <title>Processes, threads, green threads, protothreads, fibers, coroutines: what&#39;s the difference?</title>
       <link>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</link>

@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/posts/2022-09-03_how_to_embed_a_youtube_playlist_in_hugo/</loc>
+    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/hugo/</loc>
+    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/stackoverflow/</loc>
+    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/youtube/</loc>
+    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/apache/</loc>
     <lastmod>2022-09-02T18:04:48+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/kafka/</loc>
     <lastmod>2022-09-02T18:04:48+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/kafka-connect/</loc>
-    <lastmod>2022-09-02T18:04:48+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-09-02_kafka_connect_resources/</loc>
     <lastmod>2022-09-02T18:04:48+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-09-02T18:04:48+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-09-02T18:04:48+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
+    <loc>https://www.sparrow10.com/tags/kafka-connect/</loc>
     <lastmod>2022-09-02T18:04:48+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/now/</loc>
@@ -57,9 +69,6 @@
     <lastmod>2022-08-16T19:57:46+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/powerpoint/</loc>
-    <lastmod>2022-08-16T19:57:46+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/youtube/</loc>
     <lastmod>2022-08-16T19:57:46+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-15_dawn_in_panama_city/</loc>
@@ -203,9 +212,6 @@
     <loc>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</loc>
     <lastmod>2022-07-27T21:45:22+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/stackoverflow/</loc>
-    <lastmod>2022-07-27T21:45:22+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/music/</loc>
     <lastmod>2022-07-26T20:23:15+00:00</lastmod>
   </url><url>
@@ -300,9 +306,6 @@
     <lastmod>2022-07-08T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-08_hello_world/</loc>
-    <lastmod>2022-07-08T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/hugo/</loc>
     <lastmod>2022-07-08T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/random/</loc>
