@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 03 Sep 2022 12:02:50 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 22:22:30 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Erlang and Elixir on Rocky Linux (CentOS/RHEL)</title>
+      <link>https://www.sparrow10.com/posts/2022-09-10_install_erlang_and_elixir_on_rocky_linux/</link>
+      <pubDate>Sat, 10 Sep 2022 22:22:30 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-09-10_install_erlang_and_elixir_on_rocky_linux/</guid>
+      <description>For several years I have heard about these two languages, Erlang and Elixir, and this week I thought it&amp;rsquo;ll be worth to try them. So, first things first, let start installing them in my machine. So, normally the installation process on Linux should be straight forward, as in the documentation (1,2), but for Rocky Linux and other RedHat based distros you need a couple of steps more in order to add a repository from Erlang Solutions.</description>
+    </item>
+    
     <item>
       <title>How to embed a YouTube playlist in a Hugo website</title>
       <link>https://www.sparrow10.com/posts/2022-09-03_how_to_embed_a_youtube_playlist_in_hugo/</link>

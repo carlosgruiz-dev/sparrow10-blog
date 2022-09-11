@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/centos/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/elixir/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/erlang/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-09-10_install_erlang_and_elixir_on_rocky_linux/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/linux/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/rhel/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/rocky-linux/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-09-10T22:22:30+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/posts/2022-09-03_how_to_embed_a_youtube_playlist_in_hugo/</loc>
     <lastmod>2022-09-03T12:02:50+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/hugo/</loc>
     <lastmod>2022-09-03T12:02:50+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/stackoverflow/</loc>
-    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-09-03T12:02:50+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/youtube/</loc>
