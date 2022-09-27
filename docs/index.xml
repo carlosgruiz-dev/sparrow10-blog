@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 10 Sep 2022 22:22:30 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 16:26:36 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to access WSL&#39;s files from Windows explorer</title>
+      <link>https://www.sparrow10.com/posts/2022-09-27_how_to_access_wsls_files_from_windows/</link>
+      <pubDate>Tue, 27 Sep 2022 16:26:36 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-09-27_how_to_access_wsls_files_from_windows/</guid>
+      <description>I was looking for where Docker stores its volumes on a Windows machine. Looking at this answer on Stack Overflow, I realized that if you type &amp;ldquo;\\wsl$\&amp;rdquo; in your Windows explorer, you can browse all files inside your WSL instances.
+How cool, huh?
+Btw: Docker volumes are in:
+ \\wsl$\docker-desktop-data\data\docker\volumes (Docker Engine v20.10.16) \\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\ (Docker Engine v19.03)  See you next time.</description>
+    </item>
+    
     <item>
       <title>Install Erlang and Elixir on Rocky Linux (CentOS/RHEL)</title>
       <link>https://www.sparrow10.com/posts/2022-09-10_install_erlang_and_elixir_on_rocky_linux/</link>
