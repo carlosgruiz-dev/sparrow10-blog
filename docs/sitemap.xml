@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/tags/fun/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/japan/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-10-09_japanglish/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/music/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/youtube/</loc>
+    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/docker/</loc>
     <lastmod>2022-09-27T16:26:36+00:00</lastmod>
   </url><url>
@@ -9,15 +33,6 @@
     <lastmod>2022-09-27T16:26:36+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/linux/</loc>
-    <lastmod>2022-09-27T16:26:36+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-09-27T16:26:36+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-09-27T16:26:36+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
     <lastmod>2022-09-27T16:26:36+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/windows/</loc>
@@ -53,9 +68,6 @@
     <loc>https://www.sparrow10.com/tags/stackoverflow/</loc>
     <lastmod>2022-09-03T12:02:50+00:00</lastmod>
   </url><url>
-    <loc>https://www.sparrow10.com/tags/youtube/</loc>
-    <lastmod>2022-09-03T12:02:50+00:00</lastmod>
-  </url><url>
     <loc>https://www.sparrow10.com/tags/apache/</loc>
     <lastmod>2022-09-02T18:04:48+00:00</lastmod>
   </url><url>
@@ -78,9 +90,6 @@
     <lastmod>2022-08-21T15:22:54+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-20_caps_lock/</loc>
-    <lastmod>2022-08-20T14:57:31+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/fun/</loc>
     <lastmod>2022-08-20T14:57:31+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/twitter/</loc>
@@ -244,9 +253,6 @@
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</loc>
     <lastmod>2022-07-27T21:45:22+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/music/</loc>
-    <lastmod>2022-07-26T20:23:15+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-07-26_time_capsule_playlist/</loc>
     <lastmod>2022-07-26T20:23:15+00:00</lastmod>
