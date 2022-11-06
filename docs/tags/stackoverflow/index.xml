@@ -17,8 +17,8 @@
       <description>Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
 To embed a youtube video we can use the following shortcode:
 and the result is as follows:
-  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
-  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := .</description>
+And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode) {{- $pc := .</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ and the result is as follows:
       
       <guid>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</guid>
       <description>I found this answer on StackOverflow that is worth saving and revisiting in the future. Concurrency is a broad topic, having a lot of options and layers of implementation. Well, let&amp;rsquo;s make this a starting point.
- OK, I&amp;rsquo;m going to do my best. There are caveats everywhere, but I&amp;rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&amp;rsquo;ve given.</description>
+OK, I&amp;rsquo;m going to do my best. There are caveats everywhere, but I&amp;rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&amp;rsquo;ve given.</description>
     </item>
     
   </channel>

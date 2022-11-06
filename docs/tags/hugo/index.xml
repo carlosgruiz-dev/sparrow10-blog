@@ -17,8 +17,8 @@
       <description>Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
 To embed a youtube video we can use the following shortcode:
 and the result is as follows:
-  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
-  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := .</description>
+And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode) {{- $pc := .</description>
     </item>
     
     <item>

@@ -15,10 +15,10 @@
       
       <guid>https://www.sparrow10.com/posts/2022-09-02_kafka_connect_resources/</guid>
       <description>These are some resources I&amp;rsquo;m using to learn about Kafka Connect. Kafka Connect, is the integration API for Apache Kafka, with a bunch of connectors (for sources and sinks), and is configuration based. So, here are the resources:
-Videos    From Zero to Hero with Kafka Connect
-   Kafka Connect 101
-   Building Data Pipelines with Apache Kafka and Confluent
-Docker Compose examples  Reddit - Docker Compose file for Kafka and Kafka Connect (and ZooKeeper) GH: robcowart/cp-kafka-connect-custom GH: confluentinc/kafka-workshop  </description>
+Videos From Zero to Hero with Kafka Connect
+Kafka Connect 101
+Building Data Pipelines with Apache Kafka and Confluent
+Docker Compose examples Reddit - Docker Compose file for Kafka and Kafka Connect (and ZooKeeper) GH: robcowart/cp-kafka-connect-custom GH: confluentinc/kafka-workshop </description>
     </item>
     
     <item>

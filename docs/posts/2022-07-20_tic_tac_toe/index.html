@@ -133,30 +133,30 @@ to use a simple sum operation to calculate the state of the winning positions on
 other words, if <code>Player X</code> adds <code>1</code> point and <code>Player O</code> subtracts <code>1</code> to the row. <code>Player X</code> wins
 if it sums a total of <code>3</code>, and <code>Player O</code> wins if it computes -3. With this, we create these
 winning conditions for our game as follows.</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">Player X = 1
-Player O = -1
-</code></pre></div><h2 id="winning-options">Winning options</h2>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>Player X = 1
+</span></span><span style="display:flex;"><span>Player O = -1
+</span></span></code></pre></div><h2 id="winning-options">Winning options</h2>
 <h3 id="winning-rows">Winning rows</h3>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">p1 + p2 + p3 = [+3 / -3]
-p4 + p5 + p6 = [+3 / -3]
-p7 + p8 + p9 = [+3 / -3]
-</code></pre></div><h3 id="winning-columns">Winning columns</h3>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">p1 + p4 + p7 = [+3 / -3]
-p2 + p5 + p8 = [+3 / -3]
-p3 + p6 + p9 = [+3 / -3]
-</code></pre></div><h3 id="winning-diagonal">Winning diagonal</h3>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">p1 + p5 + p9 = [+3 / -3]
-p7 + p5 + p3 = [+3 / -3]
-</code></pre></div><h2 id="the-loop">The loop</h2>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>p1 + p2 + p3 = [+3 / -3]
+</span></span><span style="display:flex;"><span>p4 + p5 + p6 = [+3 / -3]
+</span></span><span style="display:flex;"><span>p7 + p8 + p9 = [+3 / -3]
+</span></span></code></pre></div><h3 id="winning-columns">Winning columns</h3>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>p1 + p4 + p7 = [+3 / -3]
+</span></span><span style="display:flex;"><span>p2 + p5 + p8 = [+3 / -3]
+</span></span><span style="display:flex;"><span>p3 + p6 + p9 = [+3 / -3]
+</span></span></code></pre></div><h3 id="winning-diagonal">Winning diagonal</h3>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>p1 + p5 + p9 = [+3 / -3]
+</span></span><span style="display:flex;"><span>p7 + p5 + p3 = [+3 / -3]
+</span></span></code></pre></div><h2 id="the-loop">The loop</h2>
 <p>Now comes the game loop, when every player has their turn and marks a place on the board. So the
 game loop sounds like this:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-text" data-lang="text">1. A player selects a position available on the board
-2. The game checks if there is a winner
-  - If so, celebrates and the game ends.
-3. The game checks if the board has more additional spaces left.
-  - If so, changes the current user and start step 1 again.
-  - If not, game ends with no winner.
-</code></pre></div><p>So, that&rsquo;s it. In another post we will create our tic-tac-toe game in a spreadsheet, and when we
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>1. A player selects a position available on the board
+</span></span><span style="display:flex;"><span>2. The game checks if there is a winner
+</span></span><span style="display:flex;"><span>  - If so, celebrates and the game ends.
+</span></span><span style="display:flex;"><span>3. The game checks if the board has more additional spaces left.
+</span></span><span style="display:flex;"><span>  - If so, changes the current user and start step 1 again.
+</span></span><span style="display:flex;"><span>  - If not, game ends with no winner.
+</span></span></code></pre></div><p>So, that&rsquo;s it. In another post we will create our tic-tac-toe game in a spreadsheet, and when we
 do, you will be officially a programmer.</p>
 <p>See you next time.</p>
 

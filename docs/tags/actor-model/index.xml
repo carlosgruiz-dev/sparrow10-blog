@@ -25,7 +25,7 @@
       <guid>https://www.sparrow10.com/posts/2022-07-24_the_actor_model/</guid>
       <description>I love this conversation between Carl Hewitt, Clemens Szyperski, and Erik Meijer, describing the Actor Model. It is a very interesting concurrency model that use an abstraction called actor as the fundamental unit of computation (embodying processing, storage, and communications). I would like to learn more about actors and how to use them with akka.
 This is maybe the most famous quote about the Actor Model.
- &amp;ldquo;One actor is no actor, they come in systems&amp;rdquo;  See you next time.</description>
+&amp;ldquo;One actor is no actor, they come in systems&amp;rdquo; See you next time.</description>
     </item>
     
   </channel>

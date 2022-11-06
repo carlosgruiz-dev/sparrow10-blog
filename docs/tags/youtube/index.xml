@@ -15,7 +15,7 @@
       
       <guid>https://www.sparrow10.com/posts/2022-10-09_japanglish/</guid>
       <description>Since I have heard this tune a lot on Instagram videos, I wanted to look for the song and official video. So, here it is, my new favorite song.
-  Sayonara!</description>
+Sayonara!</description>
     </item>
     
     <item>
@@ -27,8 +27,8 @@
       <description>Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
 To embed a youtube video we can use the following shortcode:
 and the result is as follows:
-  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
-  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := .</description>
+And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode) {{- $pc := .</description>
     </item>
     
     <item>
@@ -37,8 +37,7 @@ and the result is as follows:
       <pubDate>Tue, 16 Aug 2022 19:57:46 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/posts/2022-08-16_life_after_death_by_powerpoint/</guid>
-      <description>   Don McMillan is a genius. I watched a version of this video back in 2008, and today still funny. This other video is equally gold.
-  </description>
+      <description>Don McMillan is a genius. I watched a version of this video back in 2008, and today still funny. This other video is equally gold.</description>
     </item>
     
     <item>
@@ -77,7 +76,7 @@ Here are some videos I found valuable for understanding this concept with a prac
       <guid>https://www.sparrow10.com/posts/2022-07-24_the_actor_model/</guid>
       <description>I love this conversation between Carl Hewitt, Clemens Szyperski, and Erik Meijer, describing the Actor Model. It is a very interesting concurrency model that use an abstraction called actor as the fundamental unit of computation (embodying processing, storage, and communications). I would like to learn more about actors and how to use them with akka.
 This is maybe the most famous quote about the Actor Model.
- &amp;ldquo;One actor is no actor, they come in systems&amp;rdquo;  See you next time.</description>
+&amp;ldquo;One actor is no actor, they come in systems&amp;rdquo; See you next time.</description>
     </item>
     
     <item>

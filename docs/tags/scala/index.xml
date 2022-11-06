@@ -15,7 +15,7 @@
       
       <guid>https://www.sparrow10.com/posts/2022-08-11_playing_scalajs_canvas_3/</guid>
       <description>Today I had more time to try Scala.js again. Now, I added a bit of order to this chaos of random colors, we loop through the different positions of the board.
- See you in another post.</description>
+See you in another post.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@ Here are some videos I found valuable for understanding this concept with a prac
       
       <guid>https://www.sparrow10.com/posts/2022-07-23_playing_scalajs_canvas_2/</guid>
       <description>Today I played a little more with Scala.js, and make some progress on my tic-tac-toe project 🙂. Now we have a board like an ugly John Travolta&amp;rsquo;s dance floor.
- See you in another post.</description>
+See you in another post.</description>
     </item>
     
     <item>
@@ -73,7 +73,6 @@ Here are some videos I found valuable for understanding this concept with a prac
       
       <guid>https://www.sparrow10.com/posts/2022-07-18_playing_scalajs_canvas_code/</guid>
       <description>If you look at yesterday&amp;rsquo;s article, you maybe wonder how it works. Well, the code is very straightforward. We import our dependencies for exporting the function, using the dom, and generating random numbers.
-
 Using a Scala object, we create a method called main and add an annotation to say the Scala.js compiler that we want to expose this function. Inside the function, we create a canvas object, add it to the dom, and adjust its size to fill all the space.</description>
     </item>
     
@@ -84,7 +83,7 @@ Using a Scala object, we create a method called main and add an annotation to sa
       
       <guid>https://www.sparrow10.com/posts/2022-07-17_playing_scalajs_canvas/</guid>
       <description>Today I was playing with Scala.js adding a canvas to an HTML page. So, there it is, a code generated canvas changing colors randomly.
- See you in another post.</description>
+See you in another post.</description>
     </item>
     
     <item>

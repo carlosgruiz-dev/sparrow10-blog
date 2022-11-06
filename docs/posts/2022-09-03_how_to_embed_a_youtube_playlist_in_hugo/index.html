@@ -11,16 +11,16 @@
 <meta itemprop="description" content="Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
 To embed a youtube video we can use the following shortcode:
 and the result is as follows:
-  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
-  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := ."><meta itemprop="datePublished" content="2022-09-03T12:02:50+00:00" />
+And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode) {{- $pc := ."><meta itemprop="datePublished" content="2022-09-03T12:02:50+00:00" />
 <meta itemprop="dateModified" content="2022-09-03T12:02:50+00:00" />
 <meta itemprop="wordCount" content="208">
 <meta itemprop="keywords" content="hugo,youtube,stackoverflow," /><meta property="og:title" content="How to embed a YouTube playlist in a Hugo website" />
 <meta property="og:description" content="Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
 To embed a youtube video we can use the following shortcode:
 and the result is as follows:
-  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
-  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := ." />
+And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode) {{- $pc := ." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.sparrow10.com/posts/2022-09-03_how_to_embed_a_youtube_playlist_in_hugo/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-09-03T12:02:50+00:00" />
@@ -31,8 +31,8 @@ and the result is as follows:
 <meta name="twitter:description" content="Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
 To embed a youtube video we can use the following shortcode:
 and the result is as follows:
-  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
-  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := ."/>
+And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode) {{- $pc := ."/>
 <link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" media="screen" href="https://www.sparrow10.com/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="https://www.sparrow10.com/css/main.css" />
@@ -117,17 +117,17 @@ indicates:</p>
 <li>Create: <code>/layouts/shortcodes/youtubepl.html</code></li>
 <li>In that file place the following: (based on the <a href="https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/shortcodes/youtube.html">built-in youtube shortcode</a>)</li>
 </ol>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">{{- $pc := .Page.Site.Config.Privacy.YouTube -}}
-{{- if not $pc.Disable -}}
-{{- $ytHost := cond $pc.PrivacyEnhanced  &#34;www.youtube-nocookie.com&#34; &#34;www.youtube.com&#34; -}}
-{{- $id := .Get &#34;id&#34; | default (.Get 0) -}}
-{{- $class := .Get &#34;class&#34; | default (.Get 1) -}}
-{{- $title := .Get &#34;title&#34; | default &#34;YouTube Video&#34; }}
-&lt;div {{ with $class }}class=&#34;{{ . }}&#34;{{ else }}style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;{{ end }}&gt;
- &lt;iframe src=&#34;https://{{ $ytHost }}/embed/videoseries?list={{ $id }}{{ with .Get &#34;autoplay&#34; }}{{ if eq . &#34;true&#34; }}&amp;autoplay=1{{ end }}{{ end }}&#34; {{ if not $class }}style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; {{ end }}allowfullscreen title=&#34;{{ $title }}&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-{{ end -}}
-</code></pre></div></blockquote>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>{{- $pc := .Page.Site.Config.Privacy.YouTube -}}
+</span></span><span style="display:flex;"><span>{{- if not $pc.Disable -}}
+</span></span><span style="display:flex;"><span>{{- $ytHost := cond $pc.PrivacyEnhanced  &#34;www.youtube-nocookie.com&#34; &#34;www.youtube.com&#34; -}}
+</span></span><span style="display:flex;"><span>{{- $id := .Get &#34;id&#34; | default (.Get 0) -}}
+</span></span><span style="display:flex;"><span>{{- $class := .Get &#34;class&#34; | default (.Get 1) -}}
+</span></span><span style="display:flex;"><span>{{- $title := .Get &#34;title&#34; | default &#34;YouTube Video&#34; }}
+</span></span><span style="display:flex;"><span>&lt;div {{ with $class }}class=&#34;{{ . }}&#34;{{ else }}style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;{{ end }}&gt;
+</span></span><span style="display:flex;"><span> &lt;iframe src=&#34;https://{{ $ytHost }}/embed/videoseries?list={{ $id }}{{ with .Get &#34;autoplay&#34; }}{{ if eq . &#34;true&#34; }}&amp;autoplay=1{{ end }}{{ end }}&#34; {{ if not $class }}style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; {{ end }}allowfullscreen title=&#34;{{ $title }}&#34;&gt;&lt;/iframe&gt;
+</span></span><span style="display:flex;"><span>&lt;/div&gt;
+</span></span><span style="display:flex;"><span>{{ end -}}
+</span></span></code></pre></div></blockquote>
 <p>And using now this shorthand:</p>
 <p><img src="/images/how-to-embed-youtube-02.png" alt="how to embed youtube playlist"></p>
 <p>We got this result:</p>

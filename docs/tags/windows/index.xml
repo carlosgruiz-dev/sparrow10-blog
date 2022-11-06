@@ -17,7 +17,7 @@
       <description>I was looking for where Docker stores its volumes on a Windows machine. Looking at this answer on Stack Overflow, I realized that if you type &amp;ldquo;\\wsl$\&amp;rdquo; in your Windows explorer, you can browse all files inside your WSL instances.
 How cool, huh?
 Btw: Docker volumes are in:
- \\wsl$\docker-desktop-data\data\docker\volumes (Docker Engine v20.10.16) \\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\ (Docker Engine v19.03)  See you next time.</description>
+\\wsl$\docker-desktop-data\data\docker\volumes (Docker Engine v20.10.16) \\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\ (Docker Engine v19.03) See you next time.</description>
     </item>
     
   </channel>

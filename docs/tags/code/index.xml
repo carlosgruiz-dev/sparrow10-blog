@@ -15,7 +15,6 @@
       
       <guid>https://www.sparrow10.com/posts/2022-07-18_playing_scalajs_canvas_code/</guid>
       <description>If you look at yesterday&amp;rsquo;s article, you maybe wonder how it works. Well, the code is very straightforward. We import our dependencies for exporting the function, using the dom, and generating random numbers.
-
 Using a Scala object, we create a method called main and add an annotation to say the Scala.js compiler that we want to expose this function. Inside the function, we create a canvas object, add it to the dom, and adjust its size to fill all the space.</description>
     </item>
     

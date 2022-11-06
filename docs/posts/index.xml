@@ -15,7 +15,7 @@
       
       <guid>https://www.sparrow10.com/posts/2022-10-09_japanglish/</guid>
       <description>Since I have heard this tune a lot on Instagram videos, I wanted to look for the song and official video. So, here it is, my new favorite song.
-  Sayonara!</description>
+Sayonara!</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <description>I was looking for where Docker stores its volumes on a Windows machine. Looking at this answer on Stack Overflow, I realized that if you type &amp;ldquo;\\wsl$\&amp;rdquo; in your Windows explorer, you can browse all files inside your WSL instances.
 How cool, huh?
 Btw: Docker volumes are in:
- \\wsl$\docker-desktop-data\data\docker\volumes (Docker Engine v20.10.16) \\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\ (Docker Engine v19.03)  See you next time.</description>
+\\wsl$\docker-desktop-data\data\docker\volumes (Docker Engine v20.10.16) \\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\ (Docker Engine v19.03) See you next time.</description>
     </item>
     
     <item>
@@ -48,8 +48,8 @@ Btw: Docker volumes are in:
       <description>Hugo is very flexible to create a static page website, with rich contents. So, one of the things we like to share is YouTube videos, and of course playlists.
 To embed a youtube video we can use the following shortcode:
 and the result is as follows:
-  And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
-  Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode)  {{- $pc := .</description>
+And for embedding YouTube playlist we need a custom shortcode as this StackOverflow post indicates:
+Create: /layouts/shortcodes/youtubepl.html In that file place the following: (based on the built-in youtube shortcode) {{- $pc := .</description>
     </item>
     
     <item>
@@ -59,10 +59,10 @@ and the result is as follows:
       
       <guid>https://www.sparrow10.com/posts/2022-09-02_kafka_connect_resources/</guid>
       <description>These are some resources I&amp;rsquo;m using to learn about Kafka Connect. Kafka Connect, is the integration API for Apache Kafka, with a bunch of connectors (for sources and sinks), and is configuration based. So, here are the resources:
-Videos    From Zero to Hero with Kafka Connect
-   Kafka Connect 101
-   Building Data Pipelines with Apache Kafka and Confluent
-Docker Compose examples  Reddit - Docker Compose file for Kafka and Kafka Connect (and ZooKeeper) GH: robcowart/cp-kafka-connect-custom GH: confluentinc/kafka-workshop  </description>
+Videos From Zero to Hero with Kafka Connect
+Kafka Connect 101
+Building Data Pipelines with Apache Kafka and Confluent
+Docker Compose examples Reddit - Docker Compose file for Kafka and Kafka Connect (and ZooKeeper) GH: robcowart/cp-kafka-connect-custom GH: confluentinc/kafka-workshop </description>
     </item>
     
     <item>
@@ -84,7 +84,7 @@ Learning I enrolled in this Master in Big Data and Business Analytics, and will 
       <guid>https://www.sparrow10.com/posts/2022-08-20_caps_lock/</guid>
       <description>Hate when this happens to me.
 Ohhhhh pic.twitter.com/OJNwt1BGG3
-&amp;mdash; Cassidy (@cassidoo) August 19, 2022  tweet by @cassidoo</description>
+&amp;mdash; Cassidy (@cassidoo) August 19, 2022 tweet by @cassidoo</description>
     </item>
     
     <item>
@@ -94,9 +94,8 @@ Ohhhhh pic.twitter.com/OJNwt1BGG3
       
       <guid>https://www.sparrow10.com/posts/2022-08-18_get_moving/</guid>
       <description>This is another quote from the book The Obstacle Is the Way, this time about the attitude to confront obstacles. Get moving, take initiative, don&amp;rsquo;t stop.
- We must all either wear out or rust out, every one of us. My choice is to wear out.
-Theodore Roosvelt
- </description>
+We must all either wear out or rust out, every one of us. My choice is to wear out.
+Theodore Roosvelt</description>
     </item>
     
     <item>
@@ -105,8 +104,7 @@ Theodore Roosvelt
       <pubDate>Tue, 16 Aug 2022 19:57:46 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/posts/2022-08-16_life_after_death_by_powerpoint/</guid>
-      <description>   Don McMillan is a genius. I watched a version of this video back in 2008, and today still funny. This other video is equally gold.
-  </description>
+      <description>Don McMillan is a genius. I watched a version of this video back in 2008, and today still funny. This other video is equally gold.</description>
     </item>
     
     <item>
@@ -136,7 +134,7 @@ ssh -L [REMOTE_PORT]:LOCAL_ADDRESS:LOCAL_PORT -Nf USER@REMOTE_ADDRESS And if you
       
       <guid>https://www.sparrow10.com/posts/2022-08-11_playing_scalajs_canvas_3/</guid>
       <description>Today I had more time to try Scala.js again. Now, I added a bit of order to this chaos of random colors, we loop through the different positions of the board.
- See you in another post.</description>
+See you in another post.</description>
     </item>
     
     <item>
@@ -174,8 +172,7 @@ One way to start a project in Scala is using a giter8 template. For Scala.js the
       <pubDate>Sat, 06 Aug 2022 10:26:31 +0000</pubDate>
       
       <guid>https://www.sparrow10.com/posts/2022-08-06_restaurants_in_panama/</guid>
-      <description>I became a fan of making lists, with OpenVE it took off and work now as a community directory. Today almost every restaurant has a QR code to look at their menu. So again, I made a list.
- </description>
+      <description>I became a fan of making lists, with OpenVE it took off and work now as a community directory. Today almost every restaurant has a QR code to look at their menu. So again, I made a list.</description>
     </item>
     
     <item>
@@ -205,9 +202,9 @@ See you next time.</description>
       
       <guid>https://www.sparrow10.com/posts/2022-08-03_a_gift_from_my_wife/</guid>
       <description>I love sparrows. For me, they are like good omen messengers, a call for a simple life, enjoying small things, and living at the moment.
- Look at the sparrows; they do not know what they will do in the next moment. Let us literally live from moment to moment.
+Look at the sparrows; they do not know what they will do in the next moment. Let us literally live from moment to moment.
 Mahatma Gandhi
- Thanks @cuaimelis for this little guy.</description>
+Thanks @cuaimelis for this little guy.</description>
     </item>
     
     <item>
@@ -236,8 +233,8 @@ Mahatma Gandhi
       <guid>https://www.sparrow10.com/posts/2022-07-31_type_signature/</guid>
       <description>If you like functional programming, this is an awesome game you don&amp;rsquo;t want to miss. Well, it is cool if you are nerd enough to try to guess the function names from their signatures. It has been some time since I played with Haskell, so scoring 6/6 was a complete surprise.
 Try it yourself! 😃
-
-Hey there, I scored 6/6 on https://t.co/BO5nF19zTO. Give it a shot! #Haskell via @_andys8</description>
+Hey there, I scored 6/6 on https://t.co/BO5nF19zTO. Give it a shot! #Haskell via @_andys8
+&amp;mdash; Carlos Gustavo (@carlosgruiz_dev) July 26, 2022 </description>
     </item>
     
     <item>
@@ -256,7 +253,7 @@ Hey there, I scored 6/6 on https://t.co/BO5nF19zTO. Give it a shot! #Haskell via
       
       <guid>https://www.sparrow10.com/posts/2022-07-29_the_future_of_programming/</guid>
       <description>I watched this video some years ago, and it was a fascinating depiction of the early software industry, about how creative people were able to imagine solutions that even today may be considered science fiction. Hope you enjoy this video as I did.
- Bret Victor - The Future of Programming from Bret Victor on Vimeo.</description>
+Bret Victor - The Future of Programming from Bret Victor on Vimeo.</description>
     </item>
     
     <item>
@@ -276,7 +273,7 @@ Here are some videos I found valuable for understanding this concept with a prac
       
       <guid>https://www.sparrow10.com/posts/2022-07-27_processes_threads_green_threads_protothreads_fibers/</guid>
       <description>I found this answer on StackOverflow that is worth saving and revisiting in the future. Concurrency is a broad topic, having a lot of options and layers of implementation. Well, let&amp;rsquo;s make this a starting point.
- OK, I&amp;rsquo;m going to do my best. There are caveats everywhere, but I&amp;rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&amp;rsquo;ve given.</description>
+OK, I&amp;rsquo;m going to do my best. There are caveats everywhere, but I&amp;rsquo;m going to do my best to give my understanding of these terms and references to something that approximates the definition I&amp;rsquo;ve given.</description>
     </item>
     
     <item>
@@ -305,7 +302,7 @@ Here are some videos I found valuable for understanding this concept with a prac
       <guid>https://www.sparrow10.com/posts/2022-07-24_the_actor_model/</guid>
       <description>I love this conversation between Carl Hewitt, Clemens Szyperski, and Erik Meijer, describing the Actor Model. It is a very interesting concurrency model that use an abstraction called actor as the fundamental unit of computation (embodying processing, storage, and communications). I would like to learn more about actors and how to use them with akka.
 This is maybe the most famous quote about the Actor Model.
- &amp;ldquo;One actor is no actor, they come in systems&amp;rdquo;  See you next time.</description>
+&amp;ldquo;One actor is no actor, they come in systems&amp;rdquo; See you next time.</description>
     </item>
     
     <item>
@@ -315,7 +312,7 @@ This is maybe the most famous quote about the Actor Model.
       
       <guid>https://www.sparrow10.com/posts/2022-07-23_playing_scalajs_canvas_2/</guid>
       <description>Today I played a little more with Scala.js, and make some progress on my tic-tac-toe project 🙂. Now we have a board like an ugly John Travolta&amp;rsquo;s dance floor.
- See you in another post.</description>
+See you in another post.</description>
     </item>
     
     <item>
@@ -364,7 +361,6 @@ See you next time.</description>
       
       <guid>https://www.sparrow10.com/posts/2022-07-18_playing_scalajs_canvas_code/</guid>
       <description>If you look at yesterday&amp;rsquo;s article, you maybe wonder how it works. Well, the code is very straightforward. We import our dependencies for exporting the function, using the dom, and generating random numbers.
-
 Using a Scala object, we create a method called main and add an annotation to say the Scala.js compiler that we want to expose this function. Inside the function, we create a canvas object, add it to the dom, and adjust its size to fill all the space.</description>
     </item>
     
@@ -375,7 +371,7 @@ Using a Scala object, we create a method called main and add an annotation to sa
       
       <guid>https://www.sparrow10.com/posts/2022-07-17_playing_scalajs_canvas/</guid>
       <description>Today I was playing with Scala.js adding a canvas to an HTML page. So, there it is, a code generated canvas changing colors randomly.
- See you in another post.</description>
+See you in another post.</description>
     </item>
     
     <item>
@@ -414,7 +410,7 @@ Then I realize she is waiting for an answer: - Marrying you babe, marrying you, 
       
       <guid>https://www.sparrow10.com/posts/2022-07-13_a_leader_leads/</guid>
       <description>Here is a quote from Marcus Aurelius in the book The Daily Stoic for July 13th. I love this book, these tiny bits of Stoic wisdom, are a reminder to keep going, live a good life, and do your duty.
- &amp;ldquo;One person, on doing well by others, immediately accounts the expected favor in return. Another is not so quick, but still considers the person a debtor and knows the favor.</description>
+&amp;ldquo;One person, on doing well by others, immediately accounts the expected favor in return. Another is not so quick, but still considers the person a debtor and knows the favor. A third kind of person acts as if not conscious of the deed, rather like a vine producing a cluster of grapes without making further demands, like a horse after its race, or a dog after its walk, or a bee after making its honey.</description>
     </item>
     
     <item>
