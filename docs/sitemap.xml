@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.sparrow10.com/posts/</loc>
+    <lastmod>2022-11-13T23:32:10+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/scala/</loc>
+    <lastmod>2022-11-13T23:32:10+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/</loc>
+    <lastmod>2022-11-13T23:32:10+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/</loc>
+    <lastmod>2022-11-13T23:32:10+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/posts/2022-11-13_skills_for_becoming_a_scala_developer/</loc>
+    <lastmod>2022-11-13T23:32:10+00:00</lastmod>
+  </url><url>
+    <loc>https://www.sparrow10.com/tags/youtube/</loc>
+    <lastmod>2022-11-13T23:32:10+00:00</lastmod>
+  </url><url>
     <loc>https://www.sparrow10.com/tags/fun/</loc>
     <lastmod>2022-10-09T02:15:30+00:00</lastmod>
   </url><url>
@@ -12,18 +30,6 @@
     <lastmod>2022-10-09T02:15:30+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/music/</loc>
-    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/posts/</loc>
-    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/</loc>
-    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/</loc>
-    <lastmod>2022-10-09T02:15:30+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/youtube/</loc>
     <lastmod>2022-10-09T02:15:30+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/docker/</loc>
@@ -144,9 +150,6 @@
     <lastmod>2022-08-11T22:23:14+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/posts/2022-08-11_playing_scalajs_canvas_3/</loc>
-    <lastmod>2022-08-11T22:23:14+00:00</lastmod>
-  </url><url>
-    <loc>https://www.sparrow10.com/tags/scala/</loc>
     <lastmod>2022-08-11T22:23:14+00:00</lastmod>
   </url><url>
     <loc>https://www.sparrow10.com/tags/scala.js/</loc>
