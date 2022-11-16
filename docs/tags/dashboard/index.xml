@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dashboard on Sparrow10</title>
+    <link>https://www.sparrow10.com/tags/dashboard/</link>
+    <description>Recent content in dashboard on Sparrow10</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© &lt;a href=&#39;https://carlosgustavoruiz.me&#39;&gt;Carlos Gustavo Ruiz&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 14 Nov 2022 16:58:35 +0000</lastBuildDate><atom:link href="https://www.sparrow10.com/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First look to Google Looker Studio</title>
+      <link>https://www.sparrow10.com/posts/2022-11-14_google_looker_studio/</link>
+      <pubDate>Mon, 14 Nov 2022 16:58:35 +0000</pubDate>
+      
+      <guid>https://www.sparrow10.com/posts/2022-11-14_google_looker_studio/</guid>
+      <description>Looker Studio (formerly Data Studio) is an excellent tool for business intelligence, and it&amp;rsquo;s free. I worked with dashboards and reports using other technologies, and this tool is super convenient for most cases.
+This other video is a course that I found very useful for learning the basics and more about Looker Studio.
+Hope you find this tool valuable too.</description>
+    </item>
+    
+  </channel>
+</rss>
